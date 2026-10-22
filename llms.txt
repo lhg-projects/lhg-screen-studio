@@ -1,0 +1,38 @@
+# lhg-screen-studio
+
+> Screen Studio 3.7.5-4595 的逆向学习包：反混淆源码（22 MB）+ 架构剖析 + 可执行的复刻规格（22 KB 蒸馏包）。读 distill/ 学架构，读 src/ 查实现，不要通读 7.1 MB 的 bundle。
+
+本仓库是 macOS 录屏美化工具 Screen Studio（Electron 39）的逆向还原产物。所有 JavaScript 已从 javascript-obfuscator 混淆中还原（字符串 100% 复原，标识符不可复原）。核心价值在于展示一个成熟商业录屏工具如何组织：electron-trpc 通信层、录制崩溃恢复、缩放区间引擎、ffmpeg 导出流水线、fail-open 授权设计。
+
+## 必读（按顺序，共 22 KB）
+
+- [一页纸架构](distill/01-ARCHITECTURE-1PAGE.md): 进程拓扑、5 个关键设计决策、数据模型、录制生命周期。**先读这个。**
+- [能力地图](distill/02-CAPABILITY-MAP.md): 14 项核心能力，每项给出实现要点、学习价值评级、源码位置。
+- [任务卡](distill/03-PROMPT-CARDS.md): 5 张可直接粘贴给 AI 编程助手的任务卡（骨架 / 采集 / 缩放引擎 / 视觉合成 / 参数考古）。
+- [边界](distill/04-BOUNDARIES.md): 哪些是知识（可学），哪些是资产（不可搬）。
+- [工作守则](AGENTS.md): 给 AI Agent 的铁律——读什么、不读什么、三个陷阱。
+
+## 架构与检索
+
+- [架构剖析](ARCHITECTURE.md): 8 章详解，含授权链路、录音流程、项目模型、导出流水线，每节带代码位置。
+- [主进程能力清单](index/api-surface.md): 150 个 tRPC procedure，按业务分组，并标注哪些是远程代理（需联网）哪些是本地实现。
+- [锚点速查表](index/anchors.md): 「想找什么功能 → grep 什么字符串」。
+- [机器可读清单](index/inventory.json): 切片索引、块归属、chunk 列表。
+- [还原方法](REVERSE-ENGINEERING.md): 反混淆原理、指纹归属算法、可信度分级、已知坑。
+
+## 源码
+
+- [主进程全文](src/main/index.deobfuscated.js): 7.1 MB，字符串已还原。**只用于精确搜索，不要通读。**
+- [功能切片](src/main/slices/): 23 个，每个头部标注锚点与字节区间，锚点处有 ▼ANCHOR 标记。学习主战场。
+- [代码块](src/main/blocks/): 538 块，按归属 npm 包分 28 个目录；只有 APP/ 是应用自身代码（1.33 MB）。
+- [渲染进程](src/renderer/): 72 个 Vite chunk，全部反混淆。
+- [桥接层](src/preload/preload.deobfuscated.js): contextBridge，562 KB。
+
+## 工具
+
+- [tools/](tools/): 6 个 Node 脚本，可从 app.asar 复现全部产物（反混淆 / AST 切分 / 指纹归属 / 锚点切片 / 能力提取）。
+
+## Optional
+
+- [蒸馏包说明](distill/00-README.md): 为什么不要整包投喂，token 经济学。
+- [package.json](package.json): 从 app.asar 还原的依赖清单 + 推断的构建链。

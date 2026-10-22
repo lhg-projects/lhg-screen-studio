@@ -1,0 +1,718 @@
+{
+ "sample": {
+  "app": "Screen Studio",
+  "version": "3.7.5-4595",
+  "electron": "39.2.7",
+  "bundleId": "com.timpler.screenstudio"
+ },
+ "counts": {
+  "slices": 18,
+  "blocks": 538,
+  "rendererChunks": 72,
+  "owners": 28
+ },
+ "bytesByOwner": {
+  "tslib": 3586,
+  "APP": 1328093,
+  "get-intrinsic": 513000,
+  "@sentry": 2359889,
+  "qs": 1075693,
+  "@sentry-internal": 58449,
+  "atomically": 15913,
+  "localforage": 16098,
+  "bl": 6717,
+  "readable-stream": 336522,
+  "mime-db": 202011,
+  "debug": 22148,
+  "node-video-lib": 15529,
+  "conf": 62451,
+  "tasklist": 5332,
+  "mimic-response": 8068,
+  "string_decoder": 5289,
+  "https-proxy-agent": 2965,
+  "safe-buffer": 4993,
+  "dot-prop": 2290,
+  "tar-stream": 5330,
+  "ajv": 98324,
+  "mp4-wasm": 3452,
+  "env-paths": 1628,
+  "define-data-property": 1614,
+  "bindings": 8914,
+  "electron-dl": 3766,
+  "node-mac-permissions": 7196
+ },
+ "slices": [
+  {
+   "file": "01-permissions.js",
+   "names": [
+    "permissions"
+   ],
+   "bytes": 17638,
+   "range": [
+    0,
+    17638
+   ]
+  },
+  {
+   "file": "02-recording-capture-kit.js",
+   "names": [
+    "recording-capture-kit"
+   ],
+   "bytes": 35000,
+   "range": [
+    368608,
+    403608
+   ]
+  },
+  {
+   "file": "03-recording-model.js",
+   "names": [
+    "recording-model",
+    "project-model-zoom"
+   ],
+   "bytes": 49005,
+   "range": [
+    1034729,
+    1083734
+   ]
+  },
+  {
+   "file": "04-recording-unfinished-store.js",
+   "names": [
+    "recording-unfinished-store"
+   ],
+   "bytes": 35000,
+   "range": [
+    1136371,
+    1171371
+   ]
+  },
+  {
+   "file": "05-telemetry.js",
+   "names": [
+    "telemetry"
+   ],
+   "bytes": 20000,
+   "range": [
+    1254359,
+    1274359
+   ]
+  },
+  {
+   "file": "06-licensing-token-store.js",
+   "names": [
+    "licensing-token-store"
+   ],
+   "bytes": 60000,
+   "range": [
+    1363700,
+    1423700
+   ]
+  },
+  {
+   "file": "07-licensing-token-validate.js",
+   "names": [
+    "licensing-token-validate"
+   ],
+   "bytes": 60000,
+   "range": [
+    1535925,
+    1595925
+   ]
+  },
+  {
+   "file": "08-app-menu.js",
+   "names": [
+    "app-menu"
+   ],
+   "bytes": 30000,
+   "range": [
+    1692852,
+    1722852
+   ]
+  },
+  {
+   "file": "09-project-recent.js",
+   "names": [
+    "project-recent"
+   ],
+   "bytes": 20000,
+   "range": [
+    1737249,
+    1757249
+   ]
+  },
+  {
+   "file": "10-dev-tools.js",
+   "names": [
+    "dev-tools",
+    "captions"
+   ],
+   "bytes": 25715,
+   "range": [
+    1785061,
+    1810776
+   ]
+  },
+  {
+   "file": "11-updater.js",
+   "names": [
+    "updater",
+    "licensing-token-payload-schema",
+    "ipc-bridge-router"
+   ],
+   "bytes": 42128,
+   "range": [
+    1834641,
+    1876769
+   ]
+  },
+  {
+   "file": "12-licensing-license-verify.js",
+   "names": [
+    "licensing-license-verify"
+   ],
+   "bytes": 40000,
+   "range": [
+    1924287,
+    1964287
+   ]
+  },
+  {
+   "file": "13-export-pipeline.js",
+   "names": [
+    "export-pipeline",
+    "sharing"
+   ],
+   "bytes": 46763,
+   "range": [
+    1983359,
+    2030122
+   ]
+  },
+  {
+   "file": "14-ffmpeg-bridge.js",
+   "names": [
+    "ffmpeg-bridge"
+   ],
+   "bytes": 25000,
+   "range": [
+    2035256,
+    2060256
+   ]
+  },
+  {
+   "file": "15-window-management.js",
+   "names": [
+    "window-management"
+   ],
+   "bytes": 30000,
+   "range": [
+    2284730,
+    2314730
+   ]
+  },
+  {
+   "file": "16-project-read.js",
+   "names": [
+    "project-read"
+   ],
+   "bytes": 35000,
+   "range": [
+    3386858,
+    3421858
+   ]
+  },
+  {
+   "file": "17-licensing-server-client.js",
+   "names": [
+    "licensing-server-client"
+   ],
+   "bytes": 40000,
+   "range": [
+    4411936,
+    4451936
+   ]
+  },
+  {
+   "file": "18-licensing-activation-status.js",
+   "names": [
+    "licensing-activation-status"
+   ],
+   "bytes": 40000,
+   "range": [
+    6270083,
+    6310083
+   ]
+  }
+ ],
+ "trpc": {
+  "queries": [
+   "lastRequestedFileToOpen",
+   "readProject",
+   "openProject",
+   "projectsPathsFromFolder",
+   "loadProject",
+   "faceBounds",
+   "newProjectFileName",
+   "readLicenseKeyFromClipboard",
+   "share.newShareableLinkId",
+   "updates.checkForUpdates",
+   "healthz",
+   "license.verify",
+   "teams.getBlockedFeatures",
+   "auth.isTokenValid",
+   "activation.status",
+   "annonymousId",
+   "context",
+   "version",
+   "recorderVersion",
+   "backgrounds",
+   "backgroundPath",
+   "cursorSets",
+   "mouseClickSoundPath",
+   "waveform",
+   "durationMsOfAudioFile",
+   "hasToken",
+   "token",
+   "authPayload",
+   "waitForReady",
+   "userLibraryPath",
+   "builtInTracks",
+   "getTranscript",
+   "isGeneratorSupported",
+   "supportedLocales",
+   "unfinishedRecordings",
+   "getUnfinishedRecordingInfo",
+   "isScreenCaptureKitSupported",
+   "diagnosticData",
+   "freeStorageSpace",
+   "blockThread",
+   "ping",
+   "testCallback",
+   "dev.test",
+   "getTempClipboardExportsPath",
+   "getTempQaExportsPath",
+   "appDataFolderPath",
+   "loadFile",
+   "checkIfFileExists",
+   "freeDiskSpace",
+   "getFileStat",
+   "canRegister",
+   "canReachAPI",
+   "home",
+   "check",
+   "get",
+   "all",
+   "hasAccessToPresetsPath",
+   "defaultPath",
+   "speech.voices",
+   "voices",
+   "machineId",
+   "osVersion",
+   "isDev",
+   "cursorSize",
+   "memoryInfo",
+   "auth.terms.lastUpdatedAt",
+   "lastUpdatedAt",
+   "auth.terms.lastAcceptedByUser",
+   "lastAcceptedByUser",
+   "getMimeTypeExtension",
+   "capturableWindows",
+   "capturableWindowById",
+   "blockedFeatures",
+   "getUser"
+  ],
+  "mutations": [
+   "updateProject",
+   "copyProject",
+   "createZipFromProjectAndCopyToClipboard",
+   "removeProject",
+   "moveProject",
+   "copyFileToProject",
+   "markAsRecent",
+   "extractRawRecordingFiles",
+   "resizeSystemWindow",
+   "bringWindowToFront",
+   "share.prepareShareableLink",
+   "share.finalizeShareableLink",
+   "auth.authorize.app.tryToUpgradeToken",
+   "quit",
+   "restart",
+   "focus",
+   "setProgressBar",
+   "playSoundAsset",
+   "convertToMono",
+   "setToken",
+   "logout",
+   "auth.authorize.app.requestTokenAfterRecentOrder",
+   "updateTokenAfterRecentOrder",
+   "openDashboard",
+   "generateAll",
+   "generateMissing",
+   "updateTranscript",
+   "exportTranscriptAsSRT",
+   "removeUnfinishedRecordingFromStore",
+   "tryToRecoverRecording",
+   "preRecordingCheck",
+   "start",
+   "cancel",
+   "finish",
+   "pause",
+   "resume",
+   "addMarker",
+   "test",
+   "dev.throw",
+   "throw",
+   "throwError",
+   "showErrorBox",
+   "showMessageBox",
+   "setBadge",
+   "hide",
+   "stopHiding",
+   "markFrameAsComplete",
+   "markRenderAsComplete",
+   "saveVideoChunk",
+   "reportExportError",
+   "showFileInFolder",
+   "pickNewFilePath",
+   "pickFile",
+   "pickFolder",
+   "removeFileIfExists",
+   "copyFile",
+   "saveFileFromBuffer",
+   "createProjectFromVideo",
+   "detectMaskedContentShift",
+   "improveRecordingAudio",
+   "show",
+   "request",
+   "update",
+   "reset",
+   "create",
+   "createFromConfig",
+   "sync",
+   "apply",
+   "import",
+   "delete",
+   "rename",
+   "qa.addExportOutputs",
+   "processExportOutputs",
+   "speech.generate",
+   "generateVoiceoverForProject",
+   "removeVoiceoverFileFromProject",
+   "addVoiceoverRecordingFileToProject",
+   "generate",
+   "openUrl",
+   "showAlert",
+   "setDesktopVisibility",
+   "copyToClipboard",
+   "auth.terms.accept",
+   "accept",
+   "auth.terms.reset",
+   "updateIcon",
+   "setTitle",
+   "checkForUpdates",
+   "installAppUpdate",
+   "installAppUpdateNow",
+   "downgrade",
+   "updateChildWindow",
+   "closeChildWindow",
+   "maximize",
+   "contextMenu",
+   "focusChildWindow",
+   "confirmAppQuitPreventionToken",
+   "resetWindowsPeristedBounds",
+   "setReportingAllowed"
+  ]
+ },
+ "rendererChunks": [
+  {
+   "file": "src/renderer/5NxSBPmq.js",
+   "bytes": 2241093
+  },
+  {
+   "file": "src/renderer/D4qqfDv_.js",
+   "bytes": 2191890
+  },
+  {
+   "file": "src/renderer/oMg2Y2HW.js",
+   "bytes": 413844
+  },
+  {
+   "file": "src/renderer/BCjI4y2S.js",
+   "bytes": 367996
+  },
+  {
+   "file": "src/renderer/DoO9qEel.js",
+   "bytes": 332464
+  },
+  {
+   "file": "src/renderer/DSpB3a8J.js",
+   "bytes": 86669
+  },
+  {
+   "file": "src/renderer/B_-JqRCT.js",
+   "bytes": 57681
+  },
+  {
+   "file": "src/renderer/Bigoparh.js",
+   "bytes": 52712
+  },
+  {
+   "file": "src/renderer/B6x61nbd.js",
+   "bytes": 49755
+  },
+  {
+   "file": "src/renderer/Du1ndVwJ.js",
+   "bytes": 48573
+  },
+  {
+   "file": "src/renderer/Boz53ox5.js",
+   "bytes": 39971
+  },
+  {
+   "file": "src/renderer/CNzmjXbj.js",
+   "bytes": 32591
+  },
+  {
+   "file": "src/renderer/B3wsk8PG.js",
+   "bytes": 31520
+  },
+  {
+   "file": "src/renderer/dIDR4zos.js",
+   "bytes": 29746
+  },
+  {
+   "file": "src/renderer/CsijpLaW.js",
+   "bytes": 23236
+  },
+  {
+   "file": "src/renderer/Cy5-CF4W.js",
+   "bytes": 22469
+  },
+  {
+   "file": "src/renderer/DSfdWnQS.js",
+   "bytes": 20106
+  },
+  {
+   "file": "src/renderer/DVk_SCB7.js",
+   "bytes": 15917
+  },
+  {
+   "file": "src/renderer/DTLvQV7r.js",
+   "bytes": 15594
+  },
+  {
+   "file": "src/renderer/CuljKNmT.js",
+   "bytes": 14443
+  },
+  {
+   "file": "src/renderer/D5KQd3kt.js",
+   "bytes": 14178
+  },
+  {
+   "file": "src/renderer/vxiNUhu9.js",
+   "bytes": 14097
+  },
+  {
+   "file": "src/renderer/D4B7FrIL.js",
+   "bytes": 13567
+  },
+  {
+   "file": "src/renderer/DS09XOTq.js",
+   "bytes": 13172
+  },
+  {
+   "file": "src/renderer/gNYP39Re.js",
+   "bytes": 12465
+  },
+  {
+   "file": "src/renderer/kBqkxpul.js",
+   "bytes": 12284
+  },
+  {
+   "file": "src/renderer/v9gYPC5w.js",
+   "bytes": 11844
+  },
+  {
+   "file": "src/renderer/BPfUDILq.js",
+   "bytes": 11772
+  },
+  {
+   "file": "src/renderer/HPgRXMVe.js",
+   "bytes": 11303
+  },
+  {
+   "file": "src/renderer/DfZ1EWsH.js",
+   "bytes": 10406
+  },
+  {
+   "file": "src/renderer/PvGZc-EW.js",
+   "bytes": 10349
+  },
+  {
+   "file": "src/renderer/C_AVIqY3.js",
+   "bytes": 9892
+  },
+  {
+   "file": "src/renderer/6_EddXHC.js",
+   "bytes": 9768
+  },
+  {
+   "file": "src/renderer/BsQDotrT.js",
+   "bytes": 9686
+  },
+  {
+   "file": "src/renderer/BE0ajxJ6.js",
+   "bytes": 9240
+  },
+  {
+   "file": "src/renderer/BAtoF4Km.js",
+   "bytes": 8918
+  },
+  {
+   "file": "src/renderer/BoJIC2mS.js",
+   "bytes": 8289
+  },
+  {
+   "file": "src/renderer/CEHHsvR8.js",
+   "bytes": 8033
+  },
+  {
+   "file": "src/renderer/BydHaGcU.js",
+   "bytes": 6961
+  },
+  {
+   "file": "src/renderer/B-eqhXwz.js",
+   "bytes": 5665
+  },
+  {
+   "file": "src/renderer/DWwZKGVI.js",
+   "bytes": 5533
+  },
+  {
+   "file": "src/renderer/D3FTuDE8.js",
+   "bytes": 5416
+  },
+  {
+   "file": "src/renderer/Cac9nMYf.js",
+   "bytes": 5102
+  },
+  {
+   "file": "src/renderer/1w7KCGvf.js",
+   "bytes": 5066
+  },
+  {
+   "file": "src/renderer/BecaHTgt.js",
+   "bytes": 4934
+  },
+  {
+   "file": "src/renderer/CjOOQ7Fi.js",
+   "bytes": 4931
+  },
+  {
+   "file": "src/renderer/tXb8QFdD.js",
+   "bytes": 4905
+  },
+  {
+   "file": "src/renderer/BrP4tcRD.js",
+   "bytes": 4846
+  },
+  {
+   "file": "src/renderer/DPRKZMo-.js",
+   "bytes": 4761
+  },
+  {
+   "file": "src/renderer/CH7BMePs.js",
+   "bytes": 4753
+  },
+  {
+   "file": "src/renderer/BZiAdlL8.js",
+   "bytes": 4119
+  },
+  {
+   "file": "src/renderer/CYFraLLD.js",
+   "bytes": 3951
+  },
+  {
+   "file": "src/renderer/BrIJ2DtJ.js",
+   "bytes": 3801
+  },
+  {
+   "file": "src/renderer/Bx7kG2Oc.js",
+   "bytes": 3716
+  },
+  {
+   "file": "src/renderer/BvLwu-Vd.js",
+   "bytes": 3658
+  },
+  {
+   "file": "src/renderer/afhQMD4X.js",
+   "bytes": 3610
+  },
+  {
+   "file": "src/renderer/CDBrA9jJ.js",
+   "bytes": 3531
+  },
+  {
+   "file": "src/renderer/BCm9_Vyh.js",
+   "bytes": 3293
+  },
+  {
+   "file": "src/renderer/RwlxmG7D.js",
+   "bytes": 3120
+  },
+  {
+   "file": "src/renderer/1P8fZNxM.js",
+   "bytes": 3010
+  },
+  {
+   "file": "src/renderer/DS2eSQDm.js",
+   "bytes": 2909
+  },
+  {
+   "file": "src/renderer/CntrXrUT.js",
+   "bytes": 2858
+  },
+  {
+   "file": "src/renderer/BLYeTqvX.js",
+   "bytes": 2833
+  },
+  {
+   "file": "src/renderer/fgNw2nnd.js",
+   "bytes": 2760
+  },
+  {
+   "file": "src/renderer/2EQ-d62P.js",
+   "bytes": 2600
+  },
+  {
+   "file": "src/renderer/CvCvum3M.js",
+   "bytes": 2442
+  },
+  {
+   "file": "src/renderer/Bntg1v6s.js",
+   "bytes": 2396
+  },
+  {
+   "file": "src/renderer/C0_OQuxw.js",
+   "bytes": 2285
+  },
+  {
+   "file": "src/renderer/DtkmBMcu.js",
+   "bytes": 2080
+  },
+  {
+   "file": "src/renderer/BfVKJixA.js",
+   "bytes": 1593
+  },
+  {
+   "file": "src/renderer/BCzeewRP.js",
+   "bytes": 1524
+  },
+  {
+   "file": "src/renderer/DxV12F4D.js",
+   "bytes": 1432
+  }
+ ]
+}

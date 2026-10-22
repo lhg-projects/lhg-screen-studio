@@ -1,0 +1,232 @@
+[
+ {
+  "file": "01-licensing-token-store.js",
+  "name": "licensing-token-store",
+  "anchor": 1393700,
+  "bytes": 133420,
+  "range": [
+   1266462,
+   1399882
+  ]
+ },
+ {
+  "file": "02-licensing-token-validate.js",
+  "name": "licensing-token-validate",
+  "anchor": 1560925,
+  "bytes": 84723,
+  "range": [
+   1480707,
+   1565430
+  ]
+ },
+ {
+  "file": "03-licensing-activation-status.js",
+  "name": "licensing-activation-status",
+  "anchor": 6290083,
+  "bytes": 61263,
+  "range": [
+   6260026,
+   6321289
+  ]
+ },
+ {
+  "file": "04-licensing-license-verify.js",
+  "name": "licensing-license-verify",
+  "anchor": 1939287,
+  "bytes": 63511,
+  "range": [
+   1909126,
+   1972637
+  ]
+ },
+ {
+  "file": "05-licensing-server-client.js",
+  "name": "licensing-server-client",
+  "anchor": 4426936,
+  "bytes": 60613,
+  "range": [
+   4396689,
+   4457302
+  ]
+ },
+ {
+  "file": "06-licensing-token-payload-schema.js",
+  "name": "licensing-token-payload-schema",
+  "anchor": 1849675,
+  "bytes": 62693,
+  "range": [
+   1818858,
+   1881551
+  ]
+ },
+ {
+  "file": "07-recording-unfinished-store.js",
+  "name": "recording-unfinished-store",
+  "anchor": 1151371,
+  "bytes": 60115,
+  "range": [
+   1121263,
+   1181378
+  ]
+ },
+ {
+  "file": "08-recording-capture-kit.js",
+  "name": "recording-capture-kit",
+  "anchor": 383608,
+  "bytes": 60080,
+  "range": [
+   353601,
+   413681
+  ]
+ },
+ {
+  "file": "09-recording-model.js",
+  "name": "recording-model",
+  "anchor": 1049729,
+  "bytes": 60587,
+  "range": [
+   1019363,
+   1079950
+  ]
+ },
+ {
+  "file": "10-project-model-zoom.js",
+  "name": "project-model-zoom",
+  "anchor": 1063734,
+  "bytes": 60042,
+  "range": [
+   1033730,
+   1093772
+  ]
+ },
+ {
+  "file": "11-project-read.js",
+  "name": "project-read",
+  "anchor": 3401858,
+  "bytes": 60270,
+  "range": [
+   3371848,
+   3432118
+  ]
+ },
+ {
+  "file": "12-project-recent.js",
+  "name": "project-recent",
+  "anchor": 1745249,
+  "bytes": 85925,
+  "range": [
+   1711541,
+   1797466
+  ]
+ },
+ {
+  "file": "13-export-pipeline.js",
+  "name": "export-pipeline",
+  "anchor": 1998359,
+  "bytes": 60748,
+  "range": [
+   1968319,
+   2029067
+  ]
+ },
+ {
+  "file": "14-ffmpeg-bridge.js",
+  "name": "ffmpeg-bridge",
+  "anchor": 2045256,
+  "bytes": 62352,
+  "range": [
+   2012912,
+   2075264
+  ]
+ },
+ {
+  "file": "15-updater.js",
+  "name": "updater",
+  "anchor": 1846641,
+  "bytes": 65728,
+  "range": [
+   1815823,
+   1881551
+  ]
+ },
+ {
+  "file": "16-window-management.js",
+  "name": "window-management",
+  "anchor": 2296730,
+  "bytes": 60394,
+  "range": [
+   2266463,
+   2326857
+  ]
+ },
+ {
+  "file": "17-app-menu.js",
+  "name": "app-menu",
+  "anchor": 1704852,
+  "bytes": 30116,
+  "range": [
+   1689803,
+   1719919
+  ]
+ },
+ {
+  "file": "18-permissions.js",
+  "name": "permissions",
+  "anchor": 5638,
+  "bytes": 35705,
+  "range": [
+   0,
+   35705
+  ]
+ },
+ {
+  "file": "19-sharing.js",
+  "name": "sharing",
+  "anchor": 2015122,
+  "bytes": 67529,
+  "range": [
+   1979378,
+   2046907
+  ]
+ },
+ {
+  "file": "20-captions.js",
+  "name": "captions",
+  "anchor": 1795776,
+  "bytes": 71469,
+  "range": [
+   1757011,
+   1828480
+  ]
+ },
+ {
+  "file": "21-telemetry.js",
+  "name": "telemetry",
+  "anchor": 1262359,
+  "bytes": 7662,
+  "range": [
+   1258800,
+   1266462
+  ]
+ },
+ {
+  "file": "22-ipc-bridge-router.js",
+  "name": "ipc-bridge-router",
+  "anchor": 1860769,
+  "bytes": 63268,
+  "range": [
+   1830268,
+   1893536
+  ]
+ },
+ {
+  "file": "23-dev-tools.js",
+  "name": "dev-tools",
+  "anchor": 1793061,
+  "bytes": 71469,
+  "range": [
+   1757011,
+   1828480
+  ]
+ }
+]

@@ -1,0 +1,4844 @@
+[
+ {
+  "file": "tslib/001-create-defineproperty-getownpropertydescript.js",
+  "owner": "tslib",
+  "bytes": 3586,
+  "range": [
+   1024,
+   4610
+  ]
+ },
+ {
+  "file": "APP/002-cannot-apply-tostring.js",
+  "owner": "APP",
+  "bytes": 4098,
+  "range": [
+   6333,
+   10431
+  ]
+ },
+ {
+  "file": "get-intrinsic/003-administration-production-0x44e.js",
+  "owner": "get-intrinsic",
+  "bytes": 1957,
+  "range": [
+   21760,
+   23717
+  ]
+ },
+ {
+  "file": "APP/004-production-method-0x37953c.js",
+  "owner": "APP",
+  "bytes": 1598,
+  "range": [
+   27455,
+   29053
+  ]
+ },
+ {
+  "file": "APP/005-0x7094e3-0x22663c-0x4f6ea2.js",
+  "owner": "APP",
+  "bytes": 1551,
+  "range": [
+   37592,
+   39143
+  ]
+ },
+ {
+  "file": "APP/006-0x23f4-0x16bd-0xf06a53.js",
+  "owner": "APP",
+  "bytes": 1803,
+  "range": [
+   41699,
+   43502
+  ]
+ },
+ {
+  "file": "@sentry/007-create-production-observablevalue.js",
+  "owner": "@sentry",
+  "bytes": 10973,
+  "range": [
+   46661,
+   57634
+  ]
+ },
+ {
+  "file": "APP/008-version-unchanged-trackingderivation.js",
+  "owner": "APP",
+  "bytes": 1920,
+  "range": [
+   64252,
+   66172
+  ]
+ },
+ {
+  "file": "@sentry/009-reaction-oninvalidate-errorhandler.js",
+  "owner": "@sentry",
+  "bytes": 5609,
+  "range": [
+   71251,
+   76860
+  ]
+ },
+ {
+  "file": "APP/010-production-first-second.js",
+  "owner": "APP",
+  "bytes": 1805,
+  "range": [
+   82578,
+   84383
+  ]
+ },
+ {
+  "file": "APP/011-bound-0x933-0x2f0.js",
+  "owner": "APP",
+  "bytes": 2306,
+  "range": [
+   88013,
+   90319
+  ]
+ },
+ {
+  "file": "APP/012-production-trackingderivation-0x411bb4.js",
+  "owner": "APP",
+  "bytes": 1972,
+  "range": [
+   96249,
+   98221
+  ]
+ },
+ {
+  "file": "@sentry/013-splice-update-getarraylength.js",
+  "owner": "@sentry",
+  "bytes": 8893,
+  "range": [
+   101765,
+   110658
+  ]
+ },
+ {
+  "file": "@sentry/014-splice-replace-splicewitharray.js",
+  "owner": "@sentry",
+  "bytes": 3065,
+  "range": [
+   111355,
+   114420
+  ]
+ },
+ {
+  "file": "@sentry/015-delete-production-observablemap.js",
+  "owner": "@sentry",
+  "bytes": 9847,
+  "range": [
+   116189,
+   126036
+  ]
+ },
+ {
+  "file": "get-intrinsic/016-observableset-0x3bb-0x31c.js",
+  "owner": "get-intrinsic",
+  "bytes": 6936,
+  "range": [
+   126497,
+   133433
+  ]
+ },
+ {
+  "file": "@sentry/017-create-remove-target.js",
+  "owner": "@sentry",
+  "bytes": 11585,
+  "range": [
+   133550,
+   145135
+  ]
+ },
+ {
+  "file": "APP/018-observablearray-proxy-splicewitharray.js",
+  "owner": "APP",
+  "bytes": 1940,
+  "range": [
+   148258,
+   150198
+  ]
+ },
+ {
+  "file": "qs/019-0x2d1d4b-0x40ba19-regexp.js",
+  "owner": "qs",
+  "bytes": 2926,
+  "range": [
+   152962,
+   155888
+  ]
+ },
+ {
+  "file": "qs/020-exports-0x47daab-0x345ae1.js",
+  "owner": "qs",
+  "bytes": 197503,
+  "range": [
+   158375,
+   355878
+  ]
+ },
+ {
+  "file": "APP/021-anon.js",
+  "owner": "APP",
+  "bytes": 3953,
+  "range": [
+   356135,
+   360088
+  ]
+ },
+ {
+  "file": "APP/022-0x57c9c4-0x172273-0x3da192.js",
+  "owner": "APP",
+  "bytes": 4274,
+  "range": [
+   372245,
+   376519
+  ]
+ },
+ {
+  "file": "@sentry-internal/023-calledtimes-cleanups-options.js",
+  "owner": "@sentry-internal",
+  "bytes": 1674,
+  "range": [
+   376630,
+   378304
+  ]
+ },
+ {
+  "file": "APP/024-hidedockicon-startatstartup-enableexportdebu.js",
+  "owner": "APP",
+  "bytes": 2764,
+  "range": [
+   383289,
+   386053
+  ]
+ },
+ {
+  "file": "atomically/025-hasownproperty-symlink-version.js",
+  "owner": "atomically",
+  "bytes": 8469,
+  "range": [
+   387529,
+   395998
+  ]
+ },
+ {
+  "file": "APP/026-readstream-writestream-0x4ab80c.js",
+  "owner": "APP",
+  "bytes": 2765,
+  "range": [
+   396027,
+   398792
+  ]
+ },
+ {
+  "file": "atomically/027-gracefulify-createreadstream-createwritestre.js",
+  "owner": "atomically",
+  "bytes": 7444,
+  "range": [
+   401035,
+   408479
+  ]
+ },
+ {
+  "file": "@sentry/028-fromcallback-access-appendfile.js",
+  "owner": "@sentry",
+  "bytes": 2974,
+  "range": [
+   410199,
+   413173
+  ]
+ },
+ {
+  "file": "APP/029-immer-nothing-draftable.js",
+  "owner": "APP",
+  "bytes": 1763,
+  "range": [
+   445369,
+   447132
+  ]
+ },
+ {
+  "file": "APP/030-finalized-0x428649-0x2b8833.js",
+  "owner": "APP",
+  "bytes": 2633,
+  "range": [
+   457658,
+   460291
+  ]
+ },
+ {
+  "file": "@sentry/031-autofreeze-usestrictshallowcopy-usestrictite.js",
+  "owner": "@sentry",
+  "bytes": 4047,
+  "range": [
+   462143,
+   466190
+  ]
+ },
+ {
+  "file": "qs/032-production-cannot-replace.js",
+  "owner": "qs",
+  "bytes": 6576,
+  "range": [
+   467284,
+   473860
+  ]
+ },
+ {
+  "file": "get-intrinsic/033-parent-scope-modified.js",
+  "owner": "get-intrinsic",
+  "bytes": 6224,
+  "range": [
+   473860,
+   480084
+  ]
+ },
+ {
+  "file": "qs/034-tostring-getprototypeof-isarray.js",
+  "owner": "qs",
+  "bytes": 2405,
+  "range": [
+   483289,
+   485694
+  ]
+ },
+ {
+  "file": "qs/035-bigint-tostring-please.js",
+  "owner": "qs",
+  "bytes": 1809,
+  "range": [
+   485848,
+   487657
+  ]
+ },
+ {
+  "file": "get-intrinsic/036-0xe6e4b4-getidentifier-constructor.js",
+  "owner": "get-intrinsic",
+  "bytes": 1942,
+  "range": [
+   489059,
+   491001
+  ]
+ },
+ {
+  "file": "localforage/037-0x137890-0x5cc583-0x180552.js",
+  "owner": "localforage",
+  "bytes": 2398,
+  "range": [
+   492306,
+   494704
+  ]
+ },
+ {
+  "file": "APP/038-0x5d3422-0x4a9e0a-0x465e8f.js",
+  "owner": "APP",
+  "bytes": 1770,
+  "range": [
+   496879,
+   498649
+  ]
+ },
+ {
+  "file": "get-intrinsic/039-classregistry-symbolregistry-description.js",
+  "owner": "get-intrinsic",
+  "bytes": 2049,
+  "range": [
+   500309,
+   502358
+  ]
+ },
+ {
+  "file": "qs/040-constructor-isarray.js",
+  "owner": "qs",
+  "bytes": 2652,
+  "range": [
+   515714,
+   518366
+  ]
+ },
+ {
+  "file": "APP/041-filepath-config-const.js",
+  "owner": "APP",
+  "bytes": 1700,
+  "range": [
+   521819,
+   523519
+  ]
+ },
+ {
+  "file": "@sentry/042-electronversion-chromeversion-versions.js",
+  "owner": "@sentry",
+  "bytes": 6252,
+  "range": [
+   534245,
+   540497
+  ]
+ },
+ {
+  "file": "qs/043-tostring-getprototypeof-fileurltopath.js",
+  "owner": "qs",
+  "bytes": 11807,
+  "range": [
+   541640,
+   553447
+  ]
+ },
+ {
+  "file": "APP/044-circlequestionmark-questionmarkprefix-square.js",
+  "owner": "APP",
+  "bytes": 5906,
+  "range": [
+   553860,
+   559766
+  ]
+ },
+ {
+  "file": "get-intrinsic/045-writestream-hascolors-0x1bf57f.js",
+  "owner": "get-intrinsic",
+  "bytes": 4651,
+  "range": [
+   559781,
+   564432
+  ]
+ },
+ {
+  "file": "@sentry/046-platform-process-ostype.js",
+  "owner": "@sentry",
+  "bytes": 3449,
+  "range": [
+   569355,
+   572804
+  ]
+ },
+ {
+  "file": "bl/047-sigrt-0x5339c8-0xeab.js",
+  "owner": "bl",
+  "bytes": 6717,
+  "range": [
+   581695,
+   588412
+  ]
+ },
+ {
+  "file": "qs/048-option-killsignal-invalid.js",
+  "owner": "qs",
+  "bytes": 15236,
+  "range": [
+   588418,
+   603654
+  ]
+ },
+ {
+  "file": "@sentry/049-haslisteners-resolve-isdeadlock.js",
+  "owner": "@sentry",
+  "bytes": 5757,
+  "range": [
+   603667,
+   609424
+  ]
+ },
+ {
+  "file": "readable-stream/050-0x17aa-0x4b2-0x993.js",
+  "owner": "readable-stream",
+  "bytes": 9079,
+  "range": [
+   609458,
+   618537
+  ]
+ },
+ {
+  "file": "readable-stream/051-checkopen-asynciterator-0x6d4a0d.js",
+  "owner": "readable-stream",
+  "bytes": 3915,
+  "range": [
+   623234,
+   627149
+  ]
+ },
+ {
+  "file": "APP/052-contents-encode-buffer.js",
+  "owner": "APP",
+  "bytes": 1652,
+  "range": [
+   628014,
+   629666
+  ]
+ },
+ {
+  "file": "@sentry/053-contents-textdecoder-decode.js",
+  "owner": "@sentry",
+  "bytes": 10838,
+  "range": [
+   629742,
+   640580
+  ]
+ },
+ {
+  "file": "qs/054-bigint-isfinite-expected.js",
+  "owner": "qs",
+  "bytes": 4139,
+  "range": [
+   641983,
+   646122
+  ]
+ },
+ {
+  "file": "readable-stream/055-failed-verbosemessage-shortmessage.js",
+  "owner": "readable-stream",
+  "bytes": 53198,
+  "range": [
+   646122,
+   699320
+  ]
+ },
+ {
+  "file": "readable-stream/056-finished-signal-cleanup.js",
+  "owner": "readable-stream",
+  "bytes": 6344,
+  "range": [
+   701357,
+   707701
+  ]
+ },
+ {
+  "file": "@sentry/057-platform-sigint-sighup.js",
+  "owner": "@sentry",
+  "bytes": 2383,
+  "range": [
+   710211,
+   712594
+  ]
+ },
+ {
+  "file": "readable-stream/058-process-addabortlistener-0x2a7d16.js",
+  "owner": "readable-stream",
+  "bytes": 38814,
+  "range": [
+   713472,
+   752286
+  ]
+ },
+ {
+  "file": "mime-db/059-application-andrew-inset.js",
+  "owner": "mime-db",
+  "bytes": 31566,
+  "range": [
+   756603,
+   788169
+  ]
+ },
+ {
+  "file": "@sentry/060-0x3338fe-0x56f5bb-0x318b7f.js",
+  "owner": "@sentry",
+  "bytes": 2816,
+  "range": [
+   801641,
+   804457
+  ]
+ },
+ {
+  "file": "APP/061-options-0x5e5453-noglobstar.js",
+  "owner": "APP",
+  "bytes": 6201,
+  "range": [
+   810218,
+   816419
+  ]
+ },
+ {
+  "file": "qs/062-filter-0x2466d7-0x5141a1.js",
+  "owner": "qs",
+  "bytes": 4068,
+  "range": [
+   817418,
+   821486
+  ]
+ },
+ {
+  "file": "APP/063-resolve-header-offset.js",
+  "owner": "APP",
+  "bytes": 3760,
+  "range": [
+   823221,
+   826981
+  ]
+ },
+ {
+  "file": "qs/064-payload-header-payloadoffset.js",
+  "owner": "qs",
+  "bytes": 6619,
+  "range": [
+   826981,
+   833600
+  ]
+ },
+ {
+  "file": "APP/065-writefilesystem-createempty-writestring.js",
+  "owner": "APP",
+  "bytes": 2596,
+  "range": [
+   834767,
+   837363
+  ]
+ },
+ {
+  "file": "qs/066-realpathsync-resolve-hasownproperty.js",
+  "owner": "qs",
+  "bytes": 4510,
+  "range": [
+   838384,
+   842894
+  ]
+ },
+ {
+  "file": "APP/067-matchbase-indexof-noglobstar.js",
+  "owner": "APP",
+  "bytes": 2452,
+  "range": [
+   846622,
+   849074
+  ]
+ },
+ {
+  "file": "readable-stream/068-nounique-create-matches.js",
+  "owner": "readable-stream",
+  "bytes": 1511,
+  "range": [
+   849074,
+   850585
+  ]
+ },
+ {
+  "file": "qs/069-globsync-minimatch-setopts.js",
+  "owner": "qs",
+  "bytes": 10859,
+  "range": [
+   852281,
+   863140
+  ]
+ },
+ {
+  "file": "qs/070-minimatch-eventemitter-setopts.js",
+  "owner": "qs",
+  "bytes": 18246,
+  "range": [
+   866138,
+   884384
+  ]
+ },
+ {
+  "file": "@sentry/071-startswith-includes-0x41f9ef.js",
+  "owner": "@sentry",
+  "bytes": 6266,
+  "range": [
+   885486,
+   891752
+  ]
+ },
+ {
+  "file": "qs/072-exports-aliceblue-antiquewhite.js",
+  "owner": "qs",
+  "bytes": 15131,
+  "range": [
+   898709,
+   913840
+  ]
+ },
+ {
+  "file": "APP/073-substring-tolowercase-0x1801d8.js",
+  "owner": "APP",
+  "bytes": 8705,
+  "range": [
+   914115,
+   922820
+  ]
+ },
+ {
+  "file": "APP/074-0x11b896-0x25ff14-0x51ae6d.js",
+  "owner": "APP",
+  "bytes": 4414,
+  "range": [
+   924422,
+   928836
+  ]
+ },
+ {
+  "file": "qs/075-keyword-0x58267b-ansi16.js",
+  "owner": "qs",
+  "bytes": 30372,
+  "range": [
+   929195,
+   959567
+  ]
+ },
+ {
+  "file": "APP/076-unknown-model-valpha.js",
+  "owner": "APP",
+  "bytes": 2804,
+  "range": [
+   963143,
+   965947
+  ]
+ },
+ {
+  "file": "qs/077-tostring-tojson-0x51facc.js",
+  "owner": "qs",
+  "bytes": 10404,
+  "range": [
+   965947,
+   976351
+  ]
+ },
+ {
+  "file": "APP/078-maptouse-0x2207e1-getfinaltargetmapifexists.js",
+  "owner": "APP",
+  "bytes": 2821,
+  "range": [
+   983317,
+   986138
+  ]
+ },
+ {
+  "file": "debug/079-iphone-light-0x1c0.js",
+  "owner": "debug",
+  "bytes": 9121,
+  "range": [
+   990002,
+   999123
+  ]
+ },
+ {
+  "file": "APP/080-stiffness-damping-0x50c.js",
+  "owner": "APP",
+  "bytes": 2770,
+  "range": [
+   1000999,
+   1003769
+  ]
+ },
+ {
+  "file": "APP/081-0x439c13-0xafac5a-assize.js",
+  "owner": "APP",
+  "bytes": 4290,
+  "range": [
+   1005946,
+   1010236
+  ]
+ },
+ {
+  "file": "node-video-lib/082-0x5ecdef-width-height.js",
+  "owner": "node-video-lib",
+  "bytes": 11335,
+  "range": [
+   1011862,
+   1023197
+  ]
+ },
+ {
+  "file": "@sentry/083-videosession-session-recordingpath.js",
+  "owner": "@sentry",
+  "bytes": 4414,
+  "range": [
+   1027333,
+   1031747
+  ]
+ },
+ {
+  "file": "APP/084-constructor-expects-compare.js",
+  "owner": "APP",
+  "bytes": 6692,
+  "range": [
+   1032804,
+   1039496
+  ]
+ },
+ {
+  "file": "APP/085-priorityqueue-constructor-expects.js",
+  "owner": "APP",
+  "bytes": 2008,
+  "range": [
+   1042081,
+   1044089
+  ]
+ },
+ {
+  "file": "conf/086-0x3038eb-0x18d091-session.js",
+  "owner": "conf",
+  "bytes": 4784,
+  "range": [
+   1049913,
+   1054697
+  ]
+ },
+ {
+  "file": "@sentry/087-sessions-0x4d0801-recordingpath.js",
+  "owner": "@sentry",
+  "bytes": 4247,
+  "range": [
+   1055334,
+   1059581
+  ]
+ },
+ {
+  "file": "qs/088-react-element-portal.js",
+  "owner": "qs",
+  "bytes": 13649,
+  "range": [
+   1064048,
+   1077697
+  ]
+ },
+ {
+  "file": "@sentry/089-production-registerinternalmodulestart-react.js",
+  "owner": "@sentry",
+  "bytes": 52101,
+  "range": [
+   1077741,
+   1129842
+  ]
+ },
+ {
+  "file": "APP/090-bounds-isnumber-cannot.js",
+  "owner": "APP",
+  "bytes": 2135,
+  "range": [
+   1136731,
+   1138866
+  ]
+ },
+ {
+  "file": "APP/091-0x34ec92-0x8ee6c4-0x29a.js",
+  "owner": "APP",
+  "bytes": 1920,
+  "range": [
+   1140738,
+   1142658
+  ]
+ },
+ {
+  "file": "APP/092-0x1614a9-height-0xd844c.js",
+  "owner": "APP",
+  "bytes": 1705,
+  "range": [
+   1142658,
+   1144363
+  ]
+ },
+ {
+  "file": "APP/093-unfinishedrecordings-uniqby-0x568565.js",
+  "owner": "APP",
+  "bytes": 1861,
+  "range": [
+   1149810,
+   1151671
+  ]
+ },
+ {
+  "file": "@sentry/094-metadata-sessions-recorders.js",
+  "owner": "@sentry",
+  "bytes": 2646,
+  "range": [
+   1157375,
+   1160021
+  ]
+ },
+ {
+  "file": "APP/095-fromgb-frommb-fromkb.js",
+  "owner": "APP",
+  "bytes": 1743,
+  "range": [
+   1169956,
+   1171699
+  ]
+ },
+ {
+  "file": "@sentry/096-lastindexof-indexof-module.js",
+  "owner": "@sentry",
+  "bytes": 2394,
+  "range": [
+   1196905,
+   1199299
+  ]
+ },
+ {
+  "file": "@sentry/097-xmlhttprequest-method-touppercase.js",
+  "owner": "@sentry",
+  "bytes": 1916,
+  "range": [
+   1205404,
+   1207320
+  ]
+ },
+ {
+  "file": "@sentry/098-document-0x5b6496-0x5cb4cb.js",
+  "owner": "@sentry",
+  "bytes": 1897,
+  "range": [
+   1209402,
+   1211299
+  ]
+ },
+ {
+  "file": "@sentry/099-includes-startswith-sentry.js",
+  "owner": "@sentry",
+  "bytes": 1526,
+  "range": [
+   1218127,
+   1219653
+  ]
+ },
+ {
+  "file": "@sentry/100-state-pending-init2.js",
+  "owner": "@sentry",
+  "bytes": 2547,
+  "range": [
+   1221733,
+   1224280
+  ]
+ },
+ {
+  "file": "@sentry/101-0x335550-0x2fac08-address.js",
+  "owner": "@sentry",
+  "bytes": 1650,
+  "range": [
+   1244861,
+   1246511
+  ]
+ },
+ {
+  "file": "@sentry/102-notifyinglisteners-scopelisteners-eventproce.js",
+  "owner": "@sentry",
+  "bytes": 9806,
+  "range": [
+   1247373,
+   1257179
+  ]
+ },
+ {
+  "file": "@sentry/103-version-stack-0x5b92f5.js",
+  "owner": "@sentry",
+  "bytes": 6846,
+  "range": [
+   1257568,
+   1264414
+  ]
+ },
+ {
+  "file": "@sentry/104-getflvtoolpath-mkdirs-airbolt.js",
+  "owner": "@sentry",
+  "bytes": 800321,
+  "range": [
+   1265052,
+   2065373
+  ]
+ },
+ {
+  "file": "tasklist/105-init2-traceid-init3.js",
+  "owner": "tasklist",
+  "bytes": 5332,
+  "range": [
+   2067526,
+   2072858
+  ]
+ },
+ {
+  "file": "@sentry/106-measurements-init2-contexts.js",
+  "owner": "@sentry",
+  "bytes": 4835,
+  "range": [
+   2074239,
+   2079074
+  ]
+ },
+ {
+  "file": "APP/107-sampled-setmetadata-samplerate.js",
+  "owner": "APP",
+  "bytes": 1747,
+  "range": [
+   2079228,
+   2080975
+  ]
+ },
+ {
+  "file": "@sentry/108-flushtimeout-init2-pendingaggregates.js",
+  "owner": "@sentry",
+  "bytes": 2366,
+  "range": [
+   2083110,
+   2085476
+  ]
+ },
+ {
+  "file": "@sentry/109-integrations-init2-integrationsinitialized.js",
+  "owner": "@sentry",
+  "bytes": 11225,
+  "range": [
+   2094846,
+   2106071
+  ]
+ },
+ {
+  "file": "mimic-response/110-buffersize-recorddroppedevent-ratelimit.js",
+  "owner": "mimic-response",
+  "bytes": 1781,
+  "range": [
+   2107366,
+   2109147
+  ]
+ },
+ {
+  "file": "@sentry/111-0x5bca09-0xff56ad-ignoreduration.js",
+  "owner": "@sentry",
+  "bytes": 1663,
+  "range": [
+   2116032,
+   2117695
+  ]
+ },
+ {
+  "file": "@sentry/112-notifyinglisteners-scopelisteners-eventproce.js",
+  "owner": "@sentry",
+  "bytes": 9715,
+  "range": [
+   2118551,
+   2128266
+  ]
+ },
+ {
+  "file": "@sentry/113-version-stack-0x103266.js",
+  "owner": "@sentry",
+  "bytes": 6750,
+  "range": [
+   2128587,
+   2135337
+  ]
+ },
+ {
+  "file": "@sentry/114-sentry-transaction-startchild.js",
+  "owner": "@sentry",
+  "bytes": 1713,
+  "range": [
+   2139758,
+   2141471
+  ]
+ },
+ {
+  "file": "@sentry-internal/115-settings-router-lazyrouter.js",
+  "owner": "@sentry-internal",
+  "bytes": 2091,
+  "range": [
+   2142087,
+   2144178
+  ]
+ },
+ {
+  "file": "@sentry-internal/116-initstatic-postgres-0x1d0821.js",
+  "owner": "@sentry-internal",
+  "bytes": 2562,
+  "range": [
+   2145081,
+   2147643
+  ]
+ },
+ {
+  "file": "@sentry-internal/117-static-0x380db8-0x6bcd03.js",
+  "owner": "@sentry-internal",
+  "bytes": 1818,
+  "range": [
+   2147664,
+   2149482
+  ]
+ },
+ {
+  "file": "@sentry-internal/118-initstatic-mongo-0x2f280a.js",
+  "owner": "@sentry-internal",
+  "bytes": 4332,
+  "range": [
+   2150698,
+   2155030
+  ]
+ },
+ {
+  "file": "@sentry-internal/119-initstatic-graphql-0x149f89.js",
+  "owner": "@sentry-internal",
+  "bytes": 1786,
+  "range": [
+   2156058,
+   2157844
+  ]
+ },
+ {
+  "file": "@sentry-internal/120-initstatic-apollo-constructor.js",
+  "owner": "@sentry-internal",
+  "bytes": 2384,
+  "range": [
+   2157865,
+   2160249
+  ]
+ },
+ {
+  "file": "@sentry/121-metadata-0x4cfdcc-packages.js",
+  "owner": "@sentry",
+  "bytes": 5037,
+  "range": [
+   2163225,
+   2168262
+  ]
+ },
+ {
+  "file": "string_decoder/122-0x847b41-0x26ae1c-0x18d04b.js",
+  "owner": "string_decoder",
+  "bytes": 2774,
+  "range": [
+   2168315,
+   2171089
+  ]
+ },
+ {
+  "file": "qs/123-default-coerce-disable.js",
+  "owner": "qs",
+  "bytes": 5087,
+  "range": [
+   2171100,
+   2176187
+  ]
+ },
+ {
+  "file": "debug/124-formatargs-0x1519ce-0x51f6ae.js",
+  "owner": "debug",
+  "bytes": 3918,
+  "range": [
+   2176195,
+   2180113
+  ]
+ },
+ {
+  "file": "APP/125-color-colors-false.js",
+  "owner": "APP",
+  "bytes": 3755,
+  "range": [
+   2180607,
+   2184362
+  ]
+ },
+ {
+  "file": "debug/126-0x24e6e6-0x4cebb4-formatargs.js",
+  "owner": "debug",
+  "bytes": 5720,
+  "range": [
+   2184370,
+   2190090
+  ]
+ },
+ {
+  "file": "@sentry/127-eventemitter-callback-timeout.js",
+  "owner": "@sentry",
+  "bytes": 4508,
+  "range": [
+   2191364,
+   2195872
+  ]
+ },
+ {
+  "file": "https-proxy-agent/128-default-creating-x20new.js",
+  "owner": "https-proxy-agent",
+  "bytes": 2965,
+  "range": [
+   2198842,
+   2201807
+  ]
+ },
+ {
+  "file": "qs/129-0x18c2e6-symbol-0x353434.js",
+  "owner": "qs",
+  "bytes": 7023,
+  "range": [
+   2207500,
+   2214523
+  ]
+ },
+ {
+  "file": "@sentry/130-initstatic-0x24ffe2-0x6bcd03.js",
+  "owner": "@sentry",
+  "bytes": 1803,
+  "range": [
+   2218502,
+   2220305
+  ]
+ },
+ {
+  "file": "@sentry/131-lrumap-getintegration-addbreadcrumb.js",
+  "owner": "@sentry",
+  "bytes": 3372,
+  "range": [
+   2220326,
+   2223698
+  ]
+ },
+ {
+  "file": "@sentry/132-initstatic-onuncaughtexception-0x2fbc19.js",
+  "owner": "@sentry",
+  "bytes": 2427,
+  "range": [
+   2225972,
+   2228399
+  ]
+ },
+ {
+  "file": "@sentry/133-initstatic-onunhandledrejection-constructor.js",
+  "owner": "@sentry",
+  "bytes": 1537,
+  "range": [
+   2228420,
+   2229957
+  ]
+ },
+ {
+  "file": "@sentry/134-initstatic-contextlines-options.js",
+  "owner": "@sentry",
+  "bytes": 2102,
+  "range": [
+   2230268,
+   2232370
+  ]
+ },
+ {
+  "file": "@sentry/135-initstatic-context-constructor.js",
+  "owner": "@sentry",
+  "bytes": 2159,
+  "range": [
+   2235041,
+   2237200
+  ]
+ },
+ {
+  "file": "@sentry/136-initstatic-requestdata-constructor.js",
+  "owner": "@sentry",
+  "bytes": 1520,
+  "range": [
+   2247422,
+   2248942
+  ]
+ },
+ {
+  "file": "@sentry/137-inspector-session-configureandconnect.js",
+  "owner": "@sentry",
+  "bytes": 3677,
+  "range": [
+   2250409,
+   2254086
+  ]
+ },
+ {
+  "file": "@sentry/138-initstatic-localvariables-0x4a0cf6.js",
+  "owner": "@sentry",
+  "bytes": 4272,
+  "range": [
+   2254789,
+   2259061
+  ]
+ },
+ {
+  "file": "@sentry/139-initstatic-undici-0x4f0949.js",
+  "owner": "@sentry",
+  "bytes": 4793,
+  "range": [
+   2259377,
+   2264170
+  ]
+ },
+ {
+  "file": "@sentry/140-access-sentry-optionalaccess.js",
+  "owner": "@sentry",
+  "bytes": 1698,
+  "range": [
+   2266251,
+   2267949
+  ]
+ },
+ {
+  "file": "@sentry/141-0x10aade-0x67ef5f-address.js",
+  "owner": "@sentry",
+  "bytes": 1657,
+  "range": [
+   2270369,
+   2272026
+  ]
+ },
+ {
+  "file": "@sentry/142-notifyinglisteners-scopelisteners-eventproce.js",
+  "owner": "@sentry",
+  "bytes": 9780,
+  "range": [
+   2272892,
+   2282672
+  ]
+ },
+ {
+  "file": "@sentry/143-version-stack-bindclient.js",
+  "owner": "@sentry",
+  "bytes": 6799,
+  "range": [
+   2282982,
+   2289781
+  ]
+ },
+ {
+  "file": "APP/144-buffersize-recorddroppedevent-ratelimit.js",
+  "owner": "APP",
+  "bytes": 1789,
+  "range": [
+   2291994,
+   2293783
+  ]
+ },
+ {
+  "file": "@sentry/145-0x3cd516-getclient-getoptions.js",
+  "owner": "@sentry",
+  "bytes": 2593,
+  "range": [
+   2301190,
+   2303783
+  ]
+ },
+ {
+  "file": "APP/146-entries-waiters-runexclusive.js",
+  "owner": "APP",
+  "bytes": 1525,
+  "range": [
+   2311867,
+   2313392
+  ]
+ },
+ {
+  "file": "APP/147-0x51c3f8-0xc958e4-initial.js",
+  "owner": "APP",
+  "bytes": 1919,
+  "range": [
+   2313601,
+   2315520
+  ]
+ },
+ {
+  "file": "@sentry/148-0x4a5eb0-0x6bcd03-process.js",
+  "owner": "@sentry",
+  "bytes": 5999,
+  "range": [
+   2324224,
+   2330223
+  ]
+ },
+ {
+  "file": "@sentry/149-updateepoch-0x881-0xdfd.js",
+  "owner": "@sentry",
+  "bytes": 4058,
+  "range": [
+   2331147,
+   2335205
+  ]
+ },
+ {
+  "file": "APP/150-assign-setuponce-addadditionalcontext.js",
+  "owner": "APP",
+  "bytes": 1880,
+  "range": [
+   2337227,
+   2339107
+  ]
+ },
+ {
+  "file": "@sentry/151-lrumap-tracing-tracingorigins.js",
+  "owner": "@sentry",
+  "bytes": 3463,
+  "range": [
+   2340981,
+   2344444
+  ]
+ },
+ {
+  "file": "@sentry/152-options-breadcrumbs-isarray.js",
+  "owner": "@sentry",
+  "bytes": 1911,
+  "range": [
+   2345243,
+   2347154
+  ]
+ },
+ {
+  "file": "APP/153-queuepath-maxagedays-maxcount.js",
+  "owner": "APP",
+  "bytes": 1975,
+  "range": [
+   2350618,
+   2352593
+  ]
+ },
+ {
+  "file": "@sentry/154-0x567e99-0x357d15-maxqueuecount.js",
+  "owner": "@sentry",
+  "bytes": 1878,
+  "range": [
+   2352997,
+   2354875
+  ]
+ },
+ {
+  "file": "APP/155-isdone-0x70a-0x14d0.js",
+  "owner": "APP",
+  "bytes": 1771,
+  "range": [
+   2368480,
+   2370251
+  ]
+ },
+ {
+  "file": "@sentry/156-abortcontroller-logsstream-onnewitem.js",
+  "owner": "@sentry",
+  "bytes": 2348,
+  "range": [
+   2370286,
+   2372634
+  ]
+ },
+ {
+  "file": "APP/157-request-finish-recording.js",
+  "owner": "APP",
+  "bytes": 1698,
+  "range": [
+   2376115,
+   2377813
+  ]
+ },
+ {
+  "file": "@sentry/158-assertoneoperationattime-perform-operation.js",
+  "owner": "@sentry",
+  "bytes": 8002,
+  "range": [
+   2377813,
+   2385815
+  ]
+ },
+ {
+  "file": "@sentry/159-assertoneoperationattime-perform-operation.js",
+  "owner": "@sentry",
+  "bytes": 7849,
+  "range": [
+   2385886,
+   2393735
+  ]
+ },
+ {
+  "file": "@sentry-internal/160-options-currentrecording-0x50655c.js",
+  "owner": "@sentry-internal",
+  "bytes": 3807,
+  "range": [
+   2393963,
+   2397770
+  ]
+ },
+ {
+  "file": "APP/161-exports-safere-safesrc.js",
+  "owner": "APP",
+  "bytes": 6022,
+  "range": [
+   2400801,
+   2406823
+  ]
+ },
+ {
+  "file": "@sentry/162-0x7aead3-0x52d0c3-version.js",
+  "owner": "@sentry",
+  "bytes": 7940,
+  "range": [
+   2407888,
+   2415828
+  ]
+ },
+ {
+  "file": "@sentry/163-0x3c2f9c-0x22c8ca-0x135411.js",
+  "owner": "@sentry",
+  "bytes": 1532,
+  "range": [
+   2420689,
+   2422221
+  ]
+ },
+ {
+  "file": "qs/164-0x3c9127-0x22922f-0x5d9525.js",
+  "owner": "qs",
+  "bytes": 13053,
+  "range": [
+   2422995,
+   2436048
+  ]
+ },
+ {
+  "file": "@sentry-internal/165-semver-0xd2d188-0x577835.js",
+  "owner": "@sentry-internal",
+  "bytes": 3166,
+  "range": [
+   2436059,
+   2439225
+  ]
+ },
+ {
+  "file": "conf/166-semver-includeprerelease-operator.js",
+  "owner": "conf",
+  "bytes": 5187,
+  "range": [
+   2444702,
+   2449889
+  ]
+ },
+ {
+  "file": "APP/167-0x4bcdd4-0x5111f9-0x4cacaf.js",
+  "owner": "APP",
+  "bytes": 1680,
+  "range": [
+   2452701,
+   2454381
+  ]
+ },
+ {
+  "file": "APP/168-assertoneoperationattime-perform-operation.js",
+  "owner": "APP",
+  "bytes": 4561,
+  "range": [
+   2454381,
+   2458942
+  ]
+ },
+ {
+  "file": "APP/169-setvisibleonallworkspaces-visibleonfullscree.js",
+  "owner": "APP",
+  "bytes": 2421,
+  "range": [
+   2461649,
+   2464070
+  ]
+ },
+ {
+  "file": "@sentry/170-target-history-historyindex.js",
+  "owner": "@sentry",
+  "bytes": 1917,
+  "range": [
+   2473480,
+   2475397
+  ]
+ },
+ {
+  "file": "APP/171-project-changecrop-config.js",
+  "owner": "APP",
+  "bytes": 1646,
+  "range": [
+   2475539,
+   2477185
+  ]
+ },
+ {
+  "file": "node-video-lib/172-project-recording-initialbounds.js",
+  "owner": "node-video-lib",
+  "bytes": 4194,
+  "range": [
+   2480276,
+   2484470
+  ]
+ },
+ {
+  "file": "@sentry-internal/173-0x2b6b12-0x1570-0x14b3.js",
+  "owner": "@sentry-internal",
+  "bytes": 7935,
+  "range": [
+   2485691,
+   2493626
+  ]
+ },
+ {
+  "file": "APP/174-0x35d913-scene-0x1c9ce3.js",
+  "owner": "APP",
+  "bytes": 3123,
+  "range": [
+   2493626,
+   2496749
+  ]
+ },
+ {
+  "file": "APP/175-latestvalue-needsrecomputing-currentreaction.js",
+  "owner": "APP",
+  "bytes": 2335,
+  "range": [
+   2497911,
+   2500246
+  ]
+ },
+ {
+  "file": "APP/176-slicesinput-slices-equals.js",
+  "owner": "APP",
+  "bytes": 6511,
+  "range": [
+   2503370,
+   2509881
+  ]
+ },
+ {
+  "file": "APP/177-0x465060-scene-0x47dc60.js",
+  "owner": "APP",
+  "bytes": 2978,
+  "range": [
+   2510355,
+   2513333
+  ]
+ },
+ {
+  "file": "APP/178-0x47672b-0x37e574-0x6bcd03.js",
+  "owner": "APP",
+  "bytes": 1668,
+  "range": [
+   2514723,
+   2516391
+  ]
+ },
+ {
+  "file": "APP/179-0x535c6f-0x5bc1d9-0x6bcd03.js",
+  "owner": "APP",
+  "bytes": 3652,
+  "range": [
+   2516797,
+   2520449
+  ]
+ },
+ {
+  "file": "@sentry/180-0x47aff7-zoomranges-equals.js",
+  "owner": "@sentry",
+  "bytes": 13402,
+  "range": [
+   2520653,
+   2534055
+  ]
+ },
+ {
+  "file": "conf/181-config-0x39cceb-0x52b67c.js",
+  "owner": "conf",
+  "bytes": 1998,
+  "range": [
+   2534431,
+   2536429
+  ]
+ },
+ {
+  "file": "conf/182-0xd0c-0xcf1-recording.js",
+  "owner": "conf",
+  "bytes": 4991,
+  "range": [
+   2536429,
+   2541420
+  ]
+ },
+ {
+  "file": "conf/183-verbose-loading-project.js",
+  "owner": "conf",
+  "bytes": 2485,
+  "range": [
+   2543588,
+   2546073
+  ]
+ },
+ {
+  "file": "qs/184-firstchild-lastchild-previoussibling.js",
+  "owner": "qs",
+  "bytes": 2230,
+  "range": [
+   2560101,
+   2562331
+  ]
+ },
+ {
+  "file": "APP/185-nodename-document-nodetype.js",
+  "owner": "APP",
+  "bytes": 4750,
+  "range": [
+   2569633,
+   2574383
+  ]
+ },
+ {
+  "file": "@sentry/186-nodetype-hasattribute-getattributenode.js",
+  "owner": "@sentry",
+  "bytes": 3018,
+  "range": [
+   2574416,
+   2577434
+  ]
+ },
+ {
+  "file": "@sentry/187-0x2627eb-switch-attributes.js",
+  "owner": "@sentry",
+  "bytes": 4096,
+  "range": [
+   2580837,
+   2584933
+  ]
+ },
+ {
+  "file": "APP/188-freeze-entities-0x80e3a.js",
+  "owner": "APP",
+  "bytes": 29454,
+  "range": [
+   2587916,
+   2617370
+  ]
+ },
+ {
+  "file": "@sentry/189-fromcharcode-hasownproperty-0x433677.js",
+  "owner": "@sentry",
+  "bytes": 5086,
+  "range": [
+   2618569,
+   2623655
+  ]
+ },
+ {
+  "file": "@sentry/190-attributenames-hasownproperty-fatalerror.js",
+  "owner": "@sentry",
+  "bytes": 4044,
+  "range": [
+   2623831,
+   2627875
+  ]
+ },
+ {
+  "file": "APP/191-tagname-0x5d3b0f-0x1f4e60.js",
+  "owner": "APP",
+  "bytes": 1938,
+  "range": [
+   2627875,
+   2629813
+  ]
+ },
+ {
+  "file": "APP/192-charat-indexof-comment.js",
+  "owner": "APP",
+  "bytes": 2128,
+  "range": [
+   2630956,
+   2633084
+  ]
+ },
+ {
+  "file": "APP/193-startdocument-createdocument-locator.js",
+  "owner": "APP",
+  "bytes": 3301,
+  "range": [
+   2637040,
+   2640341
+  ]
+ },
+ {
+  "file": "@sentry/194-nodename-childnodes-missing.js",
+  "owner": "@sentry",
+  "bytes": 3695,
+  "range": [
+   2642337,
+   2646032
+  ]
+ },
+ {
+  "file": "APP/195-charcodeat.js",
+  "owner": "APP",
+  "bytes": 1771,
+  "range": [
+   2647357,
+   2649128
+  ]
+ },
+ {
+  "file": "qs/196-hasownproperty-assign-tostring.js",
+  "owner": "qs",
+  "bytes": 2119,
+  "range": [
+   2651026,
+   2653145
+  ]
+ },
+ {
+  "file": "APP/197-exports-defaultparams-canonical.js",
+  "owner": "APP",
+  "bytes": 1703,
+  "range": [
+   2654870,
+   2656573
+  ]
+ },
+ {
+  "file": "get-intrinsic/198-exports-parent-options.js",
+  "owner": "get-intrinsic",
+  "bytes": 2271,
+  "range": [
+   2657123,
+   2659394
+  ]
+ },
+ {
+  "file": "qs/199-hasownproperty-exports-missing.js",
+  "owner": "qs",
+  "bytes": 8067,
+  "range": [
+   2660865,
+   2668932
+  ]
+ },
+ {
+  "file": "APP/200-exports-create-method.js",
+  "owner": "APP",
+  "bytes": 1753,
+  "range": [
+   2668976,
+   2670729
+  ]
+ },
+ {
+  "file": "APP/201-exports-missing-x20dtd.js",
+  "owner": "APP",
+  "bytes": 1677,
+  "range": [
+   2673169,
+   2674846
+  ]
+ },
+ {
+  "file": "APP/202-exports-missing-entity.js",
+  "owner": "APP",
+  "bytes": 2517,
+  "range": [
+   2674872,
+   2677389
+  ]
+ },
+ {
+  "file": "@sentry/203-exports-doctype-children.js",
+  "owner": "@sentry",
+  "bytes": 4480,
+  "range": [
+   2679583,
+   2684063
+  ]
+ },
+ {
+  "file": "get-intrinsic/204-exports-missing-element.js",
+  "owner": "get-intrinsic",
+  "bytes": 1688,
+  "range": [
+   2684793,
+   2686481
+  ]
+ },
+ {
+  "file": "qs/205-hasownproperty-splice-exports.js",
+  "owner": "qs",
+  "bytes": 23116,
+  "range": [
+   2688854,
+   2711970
+  ]
+ },
+ {
+  "file": "@sentry-internal/206-hasownproperty-exports-assertlegalchar.js",
+  "owner": "@sentry-internal",
+  "bytes": 6546,
+  "range": [
+   2711996,
+   2718542
+  ]
+ },
+ {
+  "file": "qs/207-hasownproperty-exports-options.js",
+  "owner": "qs",
+  "bytes": 15998,
+  "range": [
+   2718823,
+   2734821
+  ]
+ },
+ {
+  "file": "qs/208-exports-document-0x1b1567.js",
+  "owner": "qs",
+  "bytes": 6581,
+  "range": [
+   2735713,
+   2742294
+  ]
+ },
+ {
+  "file": "@sentry/209-hasownproperty-exports-0x22d859.js",
+  "owner": "@sentry",
+  "bytes": 15478,
+  "range": [
+   2742320,
+   2757798
+  ]
+ },
+ {
+  "file": "@sentry/210-hasownproperty-exports-stream.js",
+  "owner": "@sentry",
+  "bytes": 7423,
+  "range": [
+   2757824,
+   2765247
+  ]
+ },
+ {
+  "file": "APP/211-middlewares-resolver-inputparser.js",
+  "owner": "APP",
+  "bytes": 2633,
+  "range": [
+   2773996,
+   2776629
+  ]
+ },
+ {
+  "file": "readable-stream/212-0x1a5-0x398-0xdc4.js",
+  "owner": "readable-stream",
+  "bytes": 5290,
+  "range": [
+   2777596,
+   2782886
+  ]
+ },
+ {
+  "file": "@sentry/213-0x26f0-0x211-0x7f0.js",
+  "owner": "@sentry",
+  "bytes": 3019,
+  "range": [
+   2788044,
+   2791063
+  ]
+ },
+ {
+  "file": "readable-stream/214-options-pattern-windowspathsnoescape.js",
+  "owner": "readable-stream",
+  "bytes": 13439,
+  "range": [
+   2794247,
+   2807686
+  ]
+ },
+ {
+  "file": "@sentry-internal/215-options-matchers-pattern.js",
+  "owner": "@sentry-internal",
+  "bytes": 3484,
+  "range": [
+   2810264,
+   2813748
+  ]
+ },
+ {
+  "file": "qs/216-0x258aec-create-foreach.js",
+  "owner": "qs",
+  "bytes": 3628,
+  "range": [
+   2823764,
+   2827392
+  ]
+ },
+ {
+  "file": "APP/217-0x5f3-0x104d-0x17e6ea.js",
+  "owner": "APP",
+  "bytes": 1879,
+  "range": [
+   2829891,
+   2831770
+  ]
+ },
+ {
+  "file": "@sentry/218-concurrency-saturated-unsaturated.js",
+  "owner": "@sentry",
+  "bytes": 7141,
+  "range": [
+   2831922,
+   2839063
+  ]
+ },
+ {
+  "file": "readable-stream/219-integer-0x329588-0x6bcd03.js",
+  "owner": "readable-stream",
+  "bytes": 2325,
+  "range": [
+   2850676,
+   2853001
+  ]
+ },
+ {
+  "file": "APP/220-applyeach-applyeachseries-asyncify.js",
+  "owner": "APP",
+  "bytes": 1547,
+  "range": [
+   2863275,
+   2864822
+  ]
+ },
+ {
+  "file": "qs/221-freeze-defineproperty-proto.js",
+  "owner": "qs",
+  "bytes": 1666,
+  "range": [
+   2864822,
+   2866488
+  ]
+ },
+ {
+  "file": "safe-buffer/222-buffer-0x28f027-allocunsafe.js",
+  "owner": "safe-buffer",
+  "bytes": 1639,
+  "range": [
+   2868340,
+   2869979
+  ]
+ },
+ {
+  "file": "qs/223-isarray-array-isboolean.js",
+  "owner": "qs",
+  "bytes": 1982,
+  "range": [
+   2869993,
+   2871975
+  ]
+ },
+ {
+  "file": "readable-stream/224-cannot-class-buffer.js",
+  "owner": "readable-stream",
+  "bytes": 2714,
+  "range": [
+   2872001,
+   2874715
+  ]
+ },
+ {
+  "file": "readable-stream/225-readablestate-destroyed-writablestate.js",
+  "owner": "readable-stream",
+  "bytes": 1832,
+  "range": [
+   2874726,
+   2876558
+  ]
+ },
+ {
+  "file": "readable-stream/226-browser-indexof-process.js",
+  "owner": "readable-stream",
+  "bytes": 15553,
+  "range": [
+   2876690,
+   2892243
+  ]
+ },
+ {
+  "file": "readable-stream/227-create-inherits-readable.js",
+  "owner": "readable-stream",
+  "bytes": 2516,
+  "range": [
+   2892254,
+   2894770
+  ]
+ },
+ {
+  "file": "readable-stream/228-buffer-isencoding-0x2d5262.js",
+  "owner": "readable-stream",
+  "bytes": 9076,
+  "range": [
+   2894784,
+   2903860
+  ]
+ },
+ {
+  "file": "readable-stream/229-readablestate-eventemitter-listeners.js",
+  "owner": "readable-stream",
+  "bytes": 25097,
+  "range": [
+   2903871,
+   2928968
+  ]
+ },
+ {
+  "file": "qs/230-create-inherits-transformstate.js",
+  "owner": "qs",
+  "bytes": 3672,
+  "range": [
+   2928979,
+   2932651
+  ]
+ },
+ {
+  "file": "safe-buffer/231-buffer-0x3772bd-allocunsafe.js",
+  "owner": "safe-buffer",
+  "bytes": 1636,
+  "range": [
+   2942998,
+   2944634
+  ]
+ },
+ {
+  "file": "readable-stream/232-cannot-class-buffer.js",
+  "owner": "readable-stream",
+  "bytes": 2745,
+  "range": [
+   2944660,
+   2947405
+  ]
+ },
+ {
+  "file": "@sentry/233-readablestate-destroyed-writablestate.js",
+  "owner": "@sentry",
+  "bytes": 1814,
+  "range": [
+   2947416,
+   2949230
+  ]
+ },
+ {
+  "file": "readable-stream/234-browser-version-nexttick.js",
+  "owner": "readable-stream",
+  "bytes": 15563,
+  "range": [
+   2949241,
+   2964804
+  ]
+ },
+ {
+  "file": "readable-stream/235-create-inherits-0x3038ac.js",
+  "owner": "readable-stream",
+  "bytes": 2536,
+  "range": [
+   2964815,
+   2967351
+  ]
+ },
+ {
+  "file": "qs/236-buffer-isencoding-tolowercase.js",
+  "owner": "qs",
+  "bytes": 9101,
+  "range": [
+   2967365,
+   2976466
+  ]
+ },
+ {
+  "file": "readable-stream/237-readablestate-eventemitter-listeners.js",
+  "owner": "readable-stream",
+  "bytes": 25037,
+  "range": [
+   2976477,
+   3001514
+  ]
+ },
+ {
+  "file": "qs/238-create-inherits-transformstate.js",
+  "owner": "qs",
+  "bytes": 3669,
+  "range": [
+   3001525,
+   3005194
+  ]
+ },
+ {
+  "file": "APP/239-matchbase-indexof-noglobstar.js",
+  "owner": "APP",
+  "bytes": 2433,
+  "range": [
+   3034990,
+   3037423
+  ]
+ },
+ {
+  "file": "qs/240-globsync-minimatch-setopts.js",
+  "owner": "qs",
+  "bytes": 10916,
+  "range": [
+   3040630,
+   3051546
+  ]
+ },
+ {
+  "file": "qs/241-minimatch-eventemitter-setopts.js",
+  "owner": "qs",
+  "bytes": 18240,
+  "range": [
+   3051557,
+   3069797
+  ]
+ },
+ {
+  "file": "qs/242-exists-arguments-expand.js",
+  "owner": "qs",
+  "bytes": 3539,
+  "range": [
+   3070300,
+   3073839
+  ]
+ },
+ {
+  "file": "qs/243-collectstream-error-0x456d7a.js",
+  "owner": "qs",
+  "bytes": 3001,
+  "range": [
+   3073960,
+   3076961
+  ]
+ },
+ {
+  "file": "readable-stream/244-0x5f08a3-0x17fe0f-0x4ff58c.js",
+  "owner": "readable-stream",
+  "bytes": 6768,
+  "range": [
+   3078777,
+   3085545
+  ]
+ },
+ {
+  "file": "readable-stream/245-readablestate-destroyed-writablestate.js",
+  "owner": "readable-stream",
+  "bytes": 2888,
+  "range": [
+   3085556,
+   3088444
+  ]
+ },
+ {
+  "file": "readable-stream/246-0x3359e9-0x1e1b07-isarray.js",
+  "owner": "readable-stream",
+  "bytes": 3780,
+  "range": [
+   3088458,
+   3092238
+  ]
+ },
+ {
+  "file": "readable-stream/247-writablestate-deprecate-buffer.js",
+  "owner": "readable-stream",
+  "bytes": 15871,
+  "range": [
+   3093146,
+   3109017
+  ]
+ },
+ {
+  "file": "readable-stream/248-0x595618-0x2b69d9-readable.js",
+  "owner": "readable-stream",
+  "bytes": 2652,
+  "range": [
+   3109028,
+   3111680
+  ]
+ },
+ {
+  "file": "safe-buffer/249-buffer-0x25d8a2-alloc.js",
+  "owner": "safe-buffer",
+  "bytes": 1718,
+  "range": [
+   3111712,
+   3113430
+  ]
+ },
+ {
+  "file": "qs/250-buffer-isencoding-tolowercase.js",
+  "owner": "qs",
+  "bytes": 9229,
+  "range": [
+   3113438,
+   3122667
+  ]
+ },
+ {
+  "file": "readable-stream/251-stream-premature-close.js",
+  "owner": "readable-stream",
+  "bytes": 3261,
+  "range": [
+   3122678,
+   3125939
+  ]
+ },
+ {
+  "file": "readable-stream/252-defineproperty-0x223e4a-0x1942.js",
+  "owner": "readable-stream",
+  "bytes": 4574,
+  "range": [
+   3125950,
+   3130524
+  ]
+ },
+ {
+  "file": "readable-stream/253-0x3c3bcd-0x1437d6-promise.js",
+  "owner": "readable-stream",
+  "bytes": 3646,
+  "range": [
+   3130535,
+   3134181
+  ]
+ },
+ {
+  "file": "readable-stream/254-readablestate-eventemitter-listeners.js",
+  "owner": "readable-stream",
+  "bytes": 26505,
+  "range": [
+   3134192,
+   3160697
+  ]
+ },
+ {
+  "file": "readable-stream/255-method-implemented-multiple.js",
+  "owner": "readable-stream",
+  "bytes": 3658,
+  "range": [
+   3160708,
+   3164366
+  ]
+ },
+ {
+  "file": "qs/256-0x33321b-0x3d5d1d-0x4bf030.js",
+  "owner": "qs",
+  "bytes": 2654,
+  "range": [
+   3164793,
+   3167447
+  ]
+ },
+ {
+  "file": "APP/257-exports-inherits-transform.js",
+  "owner": "APP",
+  "bytes": 1521,
+  "range": [
+   3168008,
+   3169529
+  ]
+ },
+ {
+  "file": "qs/258-abort-state-aborted.js",
+  "owner": "qs",
+  "bytes": 14606,
+  "range": [
+   3169529,
+   3184135
+  ]
+ },
+ {
+  "file": "APP/259-datetodos-getfullyear-getutcfullyear.js",
+  "owner": "APP",
+  "bytes": 3065,
+  "range": [
+   3184491,
+   3187556
+  ]
+ },
+ {
+  "file": "dot-prop/260-encode-getshortbytes-descriptor.js",
+  "owner": "dot-prop",
+  "bytes": 2290,
+  "range": [
+   3188183,
+   3190473
+  ]
+ },
+ {
+  "file": "APP/261-exports-default-buffer.js",
+  "owner": "APP",
+  "bytes": 2087,
+  "range": [
+   3190473,
+   3192560
+  ]
+ },
+ {
+  "file": "qs/262-getcentraldirectoryextra-getextra-getcomment.js",
+  "owner": "qs",
+  "bytes": 5079,
+  "range": [
+   3192560,
+   3197639
+  ]
+ },
+ {
+  "file": "qs/263-appendbuffer-appendstream-emiterrorcallback.js",
+  "owner": "qs",
+  "bytes": 1983,
+  "range": [
+   3198594,
+   3200577
+  ]
+ },
+ {
+  "file": "APP/264-exports-buffer.js",
+  "owner": "APP",
+  "bytes": 10547,
+  "range": [
+   3200577,
+   3211124
+  ]
+ },
+ {
+  "file": "APP/265-version-subarray-charcodeat.js",
+  "owner": "APP",
+  "bytes": 8108,
+  "range": [
+   3212538,
+   3220646
+  ]
+ },
+ {
+  "file": "qs/266-afterappend-entries-0xb5beb9.js",
+  "owner": "qs",
+  "bytes": 10147,
+  "range": [
+   3223582,
+   3233729
+  ]
+ },
+ {
+  "file": "tar-stream/267-normalizefiledata-defaults-options.js",
+  "owner": "tar-stream",
+  "bytes": 2525,
+  "range": [
+   3234699,
+   3237224
+  ]
+ },
+ {
+  "file": "qs/268-0x1746c4-0x26e50a-0x6bcd03.js",
+  "owner": "qs",
+  "bytes": 10149,
+  "range": [
+   3238525,
+   3248674
+  ]
+ },
+ {
+  "file": "tar-stream/269-exports-ustar-buffer.js",
+  "owner": "tar-stream",
+  "bytes": 2805,
+  "range": [
+   3250515,
+   3253320
+  ]
+ },
+ {
+  "file": "@sentry/270-decodelongpath-encodepax-0xd56f30.js",
+  "owner": "@sentry",
+  "bytes": 6228,
+  "range": [
+   3255426,
+   3261654
+  ]
+ },
+ {
+  "file": "APP/271-offset-buffer-missing.js",
+  "owner": "APP",
+  "bytes": 4224,
+  "range": [
+   3262613,
+   3266837
+  ]
+ },
+ {
+  "file": "APP/272-inherits-destroy-destroyed.js",
+  "owner": "APP",
+  "bytes": 1758,
+  "range": [
+   3266837,
+   3268595
+  ]
+ },
+ {
+  "file": "readable-stream/273-constants-setheader-array.js",
+  "owner": "readable-stream",
+  "bytes": 3511,
+  "range": [
+   3268595,
+   3272106
+  ]
+ },
+ {
+  "file": "readable-stream/274-stream-already-piping.js",
+  "owner": "readable-stream",
+  "bytes": 3539,
+  "range": [
+   3274197,
+   3277736
+  ]
+ },
+ {
+  "file": "readable-stream/275-oncompressorerror-engine-error.js",
+  "owner": "readable-stream",
+  "bytes": 1570,
+  "range": [
+   3278621,
+   3280191
+  ]
+ },
+ {
+  "file": "APP/276-question-0x780d25-options.js",
+  "owner": "APP",
+  "bytes": 1515,
+  "range": [
+   3288373,
+   3289888
+  ]
+ },
+ {
+  "file": "qs/277-assertequal-assertis-assertnever.js",
+  "owner": "qs",
+  "bytes": 1814,
+  "range": [
+   3293302,
+   3295116
+  ]
+ },
+ {
+  "file": "@sentry/278-errors-issues-addissue.js",
+  "owner": "@sentry",
+  "bytes": 2553,
+  "range": [
+   3296652,
+   3299205
+  ]
+ },
+ {
+  "file": "ajv/279-0x39404a-0x72ae1b-required.js",
+  "owner": "ajv",
+  "bytes": 4317,
+  "range": [
+   3299247,
+   3303564
+  ]
+ },
+ {
+  "file": "ajv/280-description-gettype-getorreturnctx.js",
+  "owner": "ajv",
+  "bytes": 7939,
+  "range": [
+   3308556,
+   3316495
+  ]
+ },
+ {
+  "file": "APP/281-anon.js",
+  "owner": "APP",
+  "bytes": 2017,
+  "range": [
+   3317202,
+   3319219
+  ]
+ },
+ {
+  "file": "@sentry/282-parse-coerce-0x5c24c7.js",
+  "owner": "@sentry",
+  "bytes": 14912,
+  "range": [
+   3321003,
+   3335915
+  ]
+ },
+ {
+  "file": "qs/283-parse-coerce-0x79b765.js",
+  "owner": "qs",
+  "bytes": 5877,
+  "range": [
+   3336635,
+   3342512
+  ]
+ },
+ {
+  "file": "qs/284-0x332a43-0x46d884-0x6bcd03.js",
+  "owner": "qs",
+  "bytes": 4232,
+  "range": [
+   3342720,
+   3346952
+  ]
+ },
+ {
+  "file": "APP/285-parse-coerce-0x4ebbbd.js",
+  "owner": "APP",
+  "bytes": 2377,
+  "range": [
+   3347714,
+   3350091
+  ]
+ },
+ {
+  "file": "APP/286-parse-processinputparams-0x46d0fa.js",
+  "owner": "APP",
+  "bytes": 2685,
+  "range": [
+   3352702,
+   3355387
+  ]
+ },
+ {
+  "file": "@sentry/287-cached-nonstrict-passthrough.js",
+  "owner": "@sentry",
+  "bytes": 5432,
+  "range": [
+   3356168,
+   3361600
+  ]
+ },
+ {
+  "file": "APP/288-parse-processinputparams-options.js",
+  "owner": "APP",
+  "bytes": 1864,
+  "range": [
+   3362087,
+   3363951
+  ]
+ },
+ {
+  "file": "APP/289-parse-processinputparams-parsedtype.js",
+  "owner": "APP",
+  "bytes": 1701,
+  "range": [
+   3364776,
+   3366477
+  ]
+ },
+ {
+  "file": "APP/290-keyschema-keytype-valuetype.js",
+  "owner": "APP",
+  "bytes": 1719,
+  "range": [
+   3372184,
+   3373903
+  ]
+ },
+ {
+  "file": "APP/291-parse-processinputparams-parsedtype.js",
+  "owner": "APP",
+  "bytes": 2118,
+  "range": [
+   3374042,
+   3376160
+  ]
+ },
+ {
+  "file": "localforage/292-validate-implement-parse.js",
+  "owner": "localforage",
+  "bytes": 2962,
+  "range": [
+   3376299,
+   3379261
+  ]
+ },
+ {
+  "file": "get-intrinsic/293-parse-getorreturnctx-values.js",
+  "owner": "get-intrinsic",
+  "bytes": 1508,
+  "range": [
+   3380307,
+   3381815
+  ]
+ },
+ {
+  "file": "ajv/294-innertype-schema-sourcetype.js",
+  "owner": "ajv",
+  "bytes": 3505,
+  "range": [
+   3383570,
+   3387075
+  ]
+ },
+ {
+  "file": "@sentry/295-message-input-instance.js",
+  "owner": "@sentry",
+  "bytes": 3007,
+  "range": [
+   3394577,
+   3397584
+  ]
+ },
+ {
+  "file": "qs/296-query-lastrequestedfiletoopen-resolve.js",
+  "owner": "qs",
+  "bytes": 10826,
+  "range": [
+   3401434,
+   3412260
+  ]
+ },
+ {
+  "file": "@sentry/297-exports-0x24d358-0x18d805.js",
+  "owner": "@sentry",
+  "bytes": 51138,
+  "range": [
+   3414703,
+   3465841
+  ]
+ },
+ {
+  "file": "APP/298-promisestate-mobxpromise-promiseinit.js",
+  "owner": "APP",
+  "bytes": 2523,
+  "range": [
+   3465894,
+   3468417
+  ]
+ },
+ {
+  "file": "APP/299-lastbox-didinit-client.js",
+  "owner": "APP",
+  "bytes": 1640,
+  "range": [
+   3468495,
+   3470135
+  ]
+ },
+ {
+  "file": "APP/300-subscriptionscache-querycache-client.js",
+  "owner": "APP",
+  "bytes": 1521,
+  "range": [
+   3470148,
+   3471669
+  ]
+ },
+ {
+  "file": "APP/301-originalerror-0x2cf1d4-cause.js",
+  "owner": "APP",
+  "bytes": 1958,
+  "range": [
+   3478609,
+   3480567
+  ]
+ },
+ {
+  "file": "APP/302-0x2d9c80-0x4d8a8e-0x296a3f.js",
+  "owner": "APP",
+  "bytes": 1983,
+  "range": [
+   3481581,
+   3483564
+  ]
+ },
+ {
+  "file": "APP/303-0x5f5991-0x257a81-promise.js",
+  "owner": "APP",
+  "bytes": 1952,
+  "range": [
+   3498067,
+   3500019
+  ]
+ },
+ {
+  "file": "APP/304-0xa2561d-0x18ddff-0x47b7ff.js",
+  "owner": "APP",
+  "bytes": 1828,
+  "range": [
+   3500019,
+   3501847
+  ]
+ },
+ {
+  "file": "APP/305-subscribe-callbacks-unsubscribe.js",
+  "owner": "APP",
+  "bytes": 2061,
+  "range": [
+   3502300,
+   3504361
+  ]
+ },
+ {
+  "file": "APP/306-0x99b-0x1e59-0xb23.js",
+  "owner": "APP",
+  "bytes": 4615,
+  "range": [
+   3505702,
+   3510317
+  ]
+ },
+ {
+  "file": "APP/307-unsigned-modulobitlength-0xc28.js",
+  "owner": "APP",
+  "bytes": 1743,
+  "range": [
+   3510751,
+   3512494
+  ]
+ },
+ {
+  "file": "mp4-wasm/308-0x20b-0x71f-0x1051.js",
+  "owner": "mp4-wasm",
+  "bytes": 3452,
+  "range": [
+   3512494,
+   3515946
+  ]
+ },
+ {
+  "file": "APP/309-disallowed-valid-0x2519.js",
+  "owner": "APP",
+  "bytes": 814205,
+  "range": [
+   3516785,
+   4330990
+  ]
+ },
+ {
+  "file": "APP/310-anon.js",
+  "owner": "APP",
+  "bytes": 2732,
+  "range": [
+   4333258,
+   4335990
+  ]
+ },
+ {
+  "file": "@sentry/311-toascii-0x4348cf-0xb82.js",
+  "owner": "@sentry",
+  "bytes": 38627,
+  "range": [
+   4337614,
+   4376241
+  ]
+ },
+ {
+  "file": "@sentry/312-implementation-basicurlparse-failure.js",
+  "owner": "@sentry",
+  "bytes": 9832,
+  "range": [
+   4376275,
+   4386107
+  ]
+ },
+ {
+  "file": "APP/313-isview-0x55fb3a-buffer.js",
+  "owner": "APP",
+  "bytes": 2594,
+  "range": [
+   4386548,
+   4389142
+  ]
+ },
+ {
+  "file": "get-intrinsic/314-arraybuffer-buffer-0x530213.js",
+  "owner": "get-intrinsic",
+  "bytes": 1995,
+  "range": [
+   4391440,
+   4393435
+  ]
+ },
+ {
+  "file": "qs/315-disturbed-promise-reject.js",
+  "owner": "qs",
+  "bytes": 2099,
+  "range": [
+   4393435,
+   4395534
+  ]
+ },
+ {
+  "file": "localforage/316-create-0x110654-append.js",
+  "owner": "localforage",
+  "bytes": 3200,
+  "range": [
+   4399968,
+   4403168
+  ]
+ },
+ {
+  "file": "@sentry/317-0x385e34-0x433e39-const.js",
+  "owner": "@sentry",
+  "bytes": 1523,
+  "range": [
+   4406535,
+   4408058
+  ]
+ },
+ {
+  "file": "@sentry/318-0x5978f4-0x497fa3-method.js",
+  "owner": "@sentry",
+  "bytes": 2439,
+  "range": [
+   4409351,
+   4411790
+  ]
+ },
+ {
+  "file": "mimic-response/319-promise-protocol-request.js",
+  "owner": "mimic-response",
+  "bytes": 6287,
+  "range": [
+   4414507,
+   4420794
+  ]
+ },
+ {
+  "file": "APP/320-could-expected-x22seq.js",
+  "owner": "APP",
+  "bytes": 2387,
+  "range": [
+   4429483,
+   4431870
+  ]
+ },
+ {
+  "file": "APP/321-signatures-bytes-allocunsafe.js",
+  "owner": "APP",
+  "bytes": 1581,
+  "range": [
+   4432149,
+   4433730
+  ]
+ },
+ {
+  "file": "APP/322-exports-safere-0x13c.js",
+  "owner": "APP",
+  "bytes": 5969,
+  "range": [
+   4451354,
+   4457323
+  ]
+ },
+ {
+  "file": "@sentry/323-0x40f480-0x2788be-includeprerelease.js",
+  "owner": "@sentry",
+  "bytes": 7177,
+  "range": [
+   4458191,
+   4465368
+  ]
+ },
+ {
+  "file": "APP/324-0x4b0a0c-0x28483a-0x3204de.js",
+  "owner": "APP",
+  "bytes": 1576,
+  "range": [
+   4470142,
+   4471718
+  ]
+ },
+ {
+  "file": "qs/325-0x2060e7-0x4b64c1-0x38d454.js",
+  "owner": "qs",
+  "bytes": 12469,
+  "range": [
+   4472490,
+   4484959
+  ]
+ },
+ {
+  "file": "conf/326-semver-0x4aa7f3-0x5bbde8.js",
+  "owner": "conf",
+  "bytes": 3170,
+  "range": [
+   4484970,
+   4488140
+  ]
+ },
+ {
+  "file": "conf/327-0x3f27f9-0x511b32-0x3ae014.js",
+  "owner": "conf",
+  "bytes": 1505,
+  "range": [
+   4490716,
+   4492221
+  ]
+ },
+ {
+  "file": "conf/328-semver-includeprerelease-operator.js",
+  "owner": "conf",
+  "bytes": 5245,
+  "range": [
+   4493676,
+   4498921
+  ]
+ },
+ {
+  "file": "@sentry/329-assign-clocktimestamp-0x289554.js",
+  "owner": "@sentry",
+  "bytes": 7049,
+  "range": [
+   4502204,
+   4509253
+  ]
+ },
+ {
+  "file": "@sentry/330-expiresin-isvalid-message.js",
+  "owner": "@sentry",
+  "bytes": 1685,
+  "range": [
+   4521171,
+   4522856
+  ]
+ },
+ {
+  "file": "@sentry/331-isbuffer-assign-0x3545e6.js",
+  "owner": "@sentry",
+  "bytes": 4894,
+  "range": [
+   4523726,
+   4528620
+  ]
+ },
+ {
+  "file": "localforage/332-failed-x20to-x20verify.js",
+  "owner": "localforage",
+  "bytes": 1789,
+  "range": [
+   4530032,
+   4531821
+  ]
+ },
+ {
+  "file": "@sentry/333-sortindex-0x188d49-unstable.js",
+  "owner": "@sentry",
+  "bytes": 9965,
+  "range": [
+   4538290,
+   4548255
+  ]
+ },
+ {
+  "file": "@sentry/334-production-registerinternalmodulestart-sorti.js",
+  "owner": "@sentry",
+  "bytes": 11175,
+  "range": [
+   4548269,
+   4559444
+  ]
+ },
+ {
+  "file": "@sentry/335-reactjs-error-decoder.js",
+  "owner": "@sentry",
+  "bytes": 310148,
+  "range": [
+   4559879,
+   4870027
+  ]
+ },
+ {
+  "file": "@sentry/336-production-registerinternalmodulestart-secre.js",
+  "owner": "@sentry",
+  "bytes": 562698,
+  "range": [
+   4870041,
+   5432739
+  ]
+ },
+ {
+  "file": "APP/337-setmaxlisteners-browserwindow-fromwebcontent.js",
+  "owner": "APP",
+  "bytes": 1988,
+  "range": [
+   5436715,
+   5438703
+  ]
+ },
+ {
+  "file": "@sentry/338-exports-iswindows-streamregexp.js",
+  "owner": "@sentry",
+  "bytes": 8193,
+  "range": [
+   5447028,
+   5455221
+  ]
+ },
+ {
+  "file": "APP/339-mergeadd-addinput-readable.js",
+  "owner": "APP",
+  "bytes": 2266,
+  "range": [
+   5455221,
+   5457487
+  ]
+ },
+ {
+  "file": "APP/340-withnoaudio-noaudio-currentoutput.js",
+  "owner": "APP",
+  "bytes": 1585,
+  "range": [
+   5457498,
+   5459083
+  ]
+ },
+ {
+  "file": "APP/341-withnovideo-novideo-currentoutput.js",
+  "owner": "APP",
+  "bytes": 1811,
+  "range": [
+   5459094,
+   5460905
+  ]
+ },
+ {
+  "file": "@sentry-internal/342-filter-options-0x3d0e09.js",
+  "owner": "@sentry-internal",
+  "bytes": 4676,
+  "range": [
+   5460916,
+   5465592
+  ]
+ },
+ {
+  "file": "@sentry-internal/343-addoutput-output-currentoutput.js",
+  "owner": "@sentry-internal",
+  "bytes": 2272,
+  "range": [
+   5465603,
+   5467875
+  ]
+ },
+ {
+  "file": "qs/344-addinputoption-addinputoptions-withinputopti.js",
+  "owner": "qs",
+  "bytes": 2547,
+  "range": [
+   5467886,
+   5470433
+  ]
+ },
+ {
+  "file": "qs/345-noconflict-callback-already.js",
+  "owner": "qs",
+  "bytes": 24250,
+  "range": [
+   5471367,
+   5495617
+  ]
+ },
+ {
+  "file": "@sentry/346-inputs-isstream-ffprobe.js",
+  "owner": "@sentry",
+  "bytes": 12005,
+  "range": [
+   5495628,
+   5507633
+  ]
+ },
+ {
+  "file": "qs/347-setffmpegpath-ffmpegpath-setffprobepath.js",
+  "owner": "qs",
+  "bytes": 13882,
+  "range": [
+   5507644,
+   5521526
+  ]
+ },
+ {
+  "file": "readable-stream/348-filter-streams-format.js",
+  "owner": "readable-stream",
+  "bytes": 5466,
+  "range": [
+   5521537,
+   5527003
+  ]
+ },
+ {
+  "file": "readable-stream/349-passthrough-savetofile-output.js",
+  "owner": "readable-stream",
+  "bytes": 9839,
+  "range": [
+   5527014,
+   5536853
+  ]
+ },
+ {
+  "file": "get-intrinsic/350-options-logger-inputs.js",
+  "owner": "get-intrinsic",
+  "bytes": 2394,
+  "range": [
+   5537869,
+   5540263
+  ]
+ },
+ {
+  "file": "APP/351-copyfile-could-extract.js",
+  "owner": "APP",
+  "bytes": 1628,
+  "range": [
+   5541532,
+   5543160
+  ]
+ },
+ {
+  "file": "APP/352-filter-complex-split.js",
+  "owner": "APP",
+  "bytes": 2142,
+  "range": [
+   5544070,
+   5546212
+  ]
+ },
+ {
+  "file": "qs/353-allownkeys-charcodeat-create.js",
+  "owner": "qs",
+  "bytes": 4424,
+  "range": [
+   5552183,
+   5556607
+  ]
+ },
+ {
+  "file": "@sentry/354-indexof-tojson-asyncfunction.js",
+  "owner": "@sentry",
+  "bytes": 2384,
+  "range": [
+   5556745,
+   5559129
+  ]
+ },
+ {
+  "file": "APP/355-inherits-create-source.js",
+  "owner": "APP",
+  "bytes": 2197,
+  "range": [
+   5561607,
+   5563804
+  ]
+ },
+ {
+  "file": "qs/356-inherits-create-isstreamlike.js",
+  "owner": "qs",
+  "bytes": 4398,
+  "range": [
+   5564376,
+   5568774
+  ]
+ },
+ {
+  "file": "mime-db/357-application-interleaved-parityfec.js",
+  "owner": "mime-db",
+  "bytes": 164766,
+  "range": [
+   5568784,
+   5733550
+  ]
+ },
+ {
+  "file": "mime-db/358-extname-charset-charsets.js",
+  "owner": "mime-db",
+  "bytes": 2993,
+  "range": [
+   5733562,
+   5736555
+  ]
+ },
+ {
+  "file": "qs/359-getownpropertysymbols-iterator-symbol.js",
+  "owner": "qs",
+  "bytes": 1536,
+  "range": [
+   5741181,
+   5742717
+  ]
+ },
+ {
+  "file": "qs/360-called-incompatible-tostring.js",
+  "owner": "qs",
+  "bytes": 2241,
+  "range": [
+   5743370,
+   5745611
+  ]
+ },
+ {
+  "file": "qs/361-hasownproperty-strict-constructor.js",
+  "owner": "qs",
+  "bytes": 3500,
+  "range": [
+   5748162,
+   5751662
+  ]
+ },
+ {
+  "file": "qs/362-asyncfunction-async-generatorfunction.js",
+  "owner": "qs",
+  "bytes": 6892,
+  "range": [
+   5751759,
+   5758651
+  ]
+ },
+ {
+  "file": "qs/363-getownpropertysymbols-iterator-symbol.js",
+  "owner": "qs",
+  "bytes": 1590,
+  "range": [
+   5758651,
+   5760241
+  ]
+ },
+ {
+  "file": "qs/364-inherits-break-default.js",
+  "owner": "qs",
+  "bytes": 9205,
+  "range": [
+   5762041,
+   5771246
+  ]
+ },
+ {
+  "file": "qs/365-isobject-target-toflatobject.js",
+  "owner": "qs",
+  "bytes": 3138,
+  "range": [
+   5772037,
+   5775175
+  ]
+ },
+ {
+  "file": "APP/366-silentjsonparsing-forcedjsonparsing-clarifyt.js",
+  "owner": "APP",
+  "bytes": 1519,
+  "range": [
+   5777677,
+   5779196
+  ]
+ },
+ {
+  "file": "mime-db/367-transitional-adapter-transformrequest.js",
+  "owner": "mime-db",
+  "bytes": 2686,
+  "range": [
+   5781541,
+   5784227
+  ]
+ },
+ {
+  "file": "get-intrinsic/368-0x443106-header-x20name.js",
+  "owner": "get-intrinsic",
+  "bytes": 5307,
+  "range": [
+   5786960,
+   5792267
+  ]
+ },
+ {
+  "file": "@sentry/369-create-0x363191-0x6bcd03.js",
+  "owner": "@sentry",
+  "bytes": 7845,
+  "range": [
+   5798299,
+   5806144
+  ]
+ },
+ {
+  "file": "APP/370-maxredirects-maxbodylength-0x187949.js",
+  "owner": "APP",
+  "bytes": 1549,
+  "range": [
+   5806144,
+   5807693
+  ]
+ },
+ {
+  "file": "APP/371-transform-toflatobject-maxrate.js",
+  "owner": "APP",
+  "bytes": 3104,
+  "range": [
+   5811880,
+   5814984
+  ]
+ },
+ {
+  "file": "APP/372-startswith-indexof-charcodeat.js",
+  "owner": "APP",
+  "bytes": 2549,
+  "range": [
+   5821603,
+   5824152
+  ]
+ },
+ {
+  "file": "@sentry/373-sessions-create-getsession.js",
+  "owner": "@sentry",
+  "bytes": 1633,
+  "range": [
+   5824614,
+   5826247
+  ]
+ },
+ {
+  "file": "@sentry/374-kindof-process-isstring.js",
+  "owner": "@sentry",
+  "bytes": 17334,
+  "range": [
+   5827710,
+   5845044
+  ]
+ },
+ {
+  "file": "APP/375-isplainobject-caseless-0x521f6d.js",
+  "owner": "APP",
+  "bytes": 2507,
+  "range": [
+   5845044,
+   5847551
+  ]
+ },
+ {
+  "file": "@sentry/376-headers-0x185a61-0x68c80a.js",
+  "owner": "@sentry",
+  "bytes": 14246,
+  "range": [
+   5847551,
+   5861797
+  ]
+ },
+ {
+  "file": "@sentry/377-defaults-interceptors-request.js",
+  "owner": "@sentry",
+  "bytes": 3992,
+  "range": [
+   5866735,
+   5870727
+  ]
+ },
+ {
+  "file": "@sentry/378-executor-x20must-x20be.js",
+  "owner": "@sentry",
+  "bytes": 1984,
+  "range": [
+   5871474,
+   5873458
+  ]
+ },
+ {
+  "file": "APP/379-continue-switchingprotocols-processing.js",
+  "owner": "APP",
+  "bytes": 1602,
+  "range": [
+   5873715,
+   5875317
+  ]
+ },
+ {
+  "file": "conf/380-voiceaudiopath-config-mutemicrophone.js",
+  "owner": "conf",
+  "bytes": 1584,
+  "range": [
+   5887648,
+   5889232
+  ]
+ },
+ {
+  "file": "APP/381-input-0x353394-0x4c04dd.js",
+  "owner": "APP",
+  "bytes": 1606,
+  "range": [
+   5900884,
+   5902490
+  ]
+ },
+ {
+  "file": "conf/382-tempdirpath-initializing-renderedframesvideo.js",
+  "owner": "conf",
+  "bytes": 9933,
+  "range": [
+   5903315,
+   5913248
+  ]
+ },
+ {
+  "file": "localforage/383-delete-exports.js",
+  "owner": "localforage",
+  "bytes": 2211,
+  "range": [
+   5923361,
+   5925572
+  ]
+ },
+ {
+  "file": "env-paths/384-homedir-tmpdir-library.js",
+  "owner": "env-paths",
+  "bytes": 1628,
+  "range": [
+   5930068,
+   5931696
+  ]
+ },
+ {
+  "file": "@sentry/385-chmodattempt-attemptifyasync-promisify.js",
+  "owner": "@sentry",
+  "bytes": 2409,
+  "range": [
+   5936804,
+   5939213
+  ]
+ },
+ {
+  "file": "APP/386-create-000000-0x5b220e.js",
+  "owner": "APP",
+  "bytes": 1726,
+  "range": [
+   5940209,
+   5941935
+  ]
+ },
+ {
+  "file": "@sentry/387-default-write-options.js",
+  "owner": "@sentry",
+  "bytes": 5310,
+  "range": [
+   5943413,
+   5948723
+  ]
+ },
+ {
+  "file": "qs/388-defineproperty-esmodule-regexpcode.js",
+  "owner": "qs",
+  "bytes": 5852,
+  "range": [
+   5948806,
+   5954658
+  ]
+ },
+ {
+  "file": "qs/389-defineproperty-esmodule-0xf8a.js",
+  "owner": "qs",
+  "bytes": 29789,
+  "range": [
+   5954668,
+   5984457
+  ]
+ },
+ {
+  "file": "APP/390-mergeevaluated-0x2a699f-0x1f056d.js",
+  "owner": "APP",
+  "bytes": 1971,
+  "range": [
+   5988130,
+   5990101
+  ]
+ },
+ {
+  "file": "ajv/391-default-defineproperty-esmodule.js",
+  "owner": "ajv",
+  "bytes": 7186,
+  "range": [
+   5992839,
+   6000025
+  ]
+ },
+ {
+  "file": "ajv/392-datatype-coerced-coercetypes.js",
+  "owner": "ajv",
+  "bytes": 3056,
+  "range": [
+   6005492,
+   6008548
+  ]
+ },
+ {
+  "file": "APP/393-compile-validate-0x27e0a3.js",
+  "owner": "APP",
+  "bytes": 2387,
+  "range": [
+   6020794,
+   6023181
+  ]
+ },
+ {
+  "file": "APP/394-keyword-schema-passed.js",
+  "owner": "APP",
+  "bytes": 1560,
+  "range": [
+   6026128,
+   6027688
+  ]
+ },
+ {
+  "file": "APP/395-dataprop-passed-allowed.js",
+  "owner": "APP",
+  "bytes": 1676,
+  "range": [
+   6027711,
+   6029387
+  ]
+ },
+ {
+  "file": "qs/396-constructor-isarray-source.js",
+  "owner": "qs",
+  "bytes": 2016,
+  "range": [
+   6029931,
+   6031947
+  ]
+ },
+ {
+  "file": "APP/397-keywords-additionalitems-0x1f77.js",
+  "owner": "APP",
+  "bytes": 1552,
+  "range": [
+   6031947,
+   6033499
+  ]
+ },
+ {
+  "file": "get-intrinsic/398-allkeys-0x3db078-0x40a070.js",
+  "owner": "get-intrinsic",
+  "bytes": 1977,
+  "range": [
+   6037263,
+   6039240
+  ]
+ },
+ {
+  "file": "qs/399-validatekeywordusage-0x457993-keyword.js",
+  "owner": "qs",
+  "bytes": 6521,
+  "range": [
+   6051972,
+   6058493
+  ]
+ },
+ {
+  "file": "ajv/400-getfullpath-uriresolver-baseid.js",
+  "owner": "ajv",
+  "bytes": 3306,
+  "range": [
+   6062439,
+   6065745
+  ]
+ },
+ {
+  "file": "APP/401-0x3fa-0x5b1-0x128.js",
+  "owner": "APP",
+  "bytes": 1686,
+  "range": [
+   6072008,
+   6073694
+  ]
+ },
+ {
+  "file": "APP/402-tolerant-scheme-userinfo.js",
+  "owner": "APP",
+  "bytes": 1919,
+  "range": [
+   6082494,
+   6084413
+  ]
+ },
+ {
+  "file": "APP/403-0x102c8a-userinfo-fragment.js",
+  "owner": "APP",
+  "bytes": 1887,
+  "range": [
+   6085204,
+   6087091
+  ]
+ },
+ {
+  "file": "APP/404-assign-scheme-userinfo.js",
+  "owner": "APP",
+  "bytes": 3581,
+  "range": [
+   6087735,
+   6091316
+  ]
+ },
+ {
+  "file": "ajv/405-require-runtime-default.js",
+  "owner": "ajv",
+  "bytes": 23938,
+  "range": [
+   6091625,
+   6115563
+  ]
+ },
+ {
+  "file": "ajv/406-keyword-schematype-0x1f2ade.js",
+  "owner": "ajv",
+  "bytes": 1709,
+  "range": [
+   6115976,
+   6117685
+  ]
+ },
+ {
+  "file": "ajv/407-passcontext-default-async.js",
+  "owner": "ajv",
+  "bytes": 2957,
+  "range": [
+   6117987,
+   6120944
+  ]
+ },
+ {
+  "file": "APP/408-message-required-property.js",
+  "owner": "APP",
+  "bytes": 2928,
+  "range": [
+   6127036,
+   6129964
+  ]
+ },
+ {
+  "file": "@sentry/409-message-params-0x513e7b.js",
+  "owner": "@sentry",
+  "bytes": 3415,
+  "range": [
+   6131145,
+   6134560
+  ]
+ },
+ {
+  "file": "@sentry/410-message-equal-allowed.js",
+  "owner": "@sentry",
+  "bytes": 1804,
+  "range": [
+   6135476,
+   6137280
+  ]
+ },
+ {
+  "file": "APP/411-schema-unevaluated-0xe68.js",
+  "owner": "APP",
+  "bytes": 1527,
+  "range": [
+   6140477,
+   6142004
+  ]
+ },
+ {
+  "file": "ajv/412-message-params-keyword.js",
+  "owner": "ajv",
+  "bytes": 3992,
+  "range": [
+   6143355,
+   6147347
+  ]
+ },
+ {
+  "file": "ajv/413-defineproperty-esmodule-validateschemadeps.js",
+  "owner": "ajv",
+  "bytes": 3424,
+  "range": [
+   6147376,
+   6150800
+  ]
+ },
+ {
+  "file": "ajv/414-message-additional-properties.js",
+  "owner": "ajv",
+  "bytes": 3722,
+  "range": [
+   6152044,
+   6155766
+  ]
+ },
+ {
+  "file": "ajv/415-keyword-properties-removeadditional.js",
+  "owner": "ajv",
+  "bytes": 1853,
+  "range": [
+   6155879,
+   6157732
+  ]
+ },
+ {
+  "file": "readable-stream/416-keyword-patternproperties-allschemapropertie.js",
+  "owner": "readable-stream",
+  "bytes": 2410,
+  "range": [
+   6157839,
+   6160249
+  ]
+ },
+ {
+  "file": "APP/417-message-match-exactly.js",
+  "owner": "APP",
+  "bytes": 1816,
+  "range": [
+   6161421,
+   6163237
+  ]
+ },
+ {
+  "file": "ajv/418-message-match-ifclause.js",
+  "owner": "ajv",
+  "bytes": 2046,
+  "range": [
+   6164059,
+   6166105
+  ]
+ },
+ {
+  "file": "ajv/419-message-match-format.js",
+  "owner": "ajv",
+  "bytes": 3989,
+  "range": [
+   6167553,
+   6171542
+  ]
+ },
+ {
+  "file": "@sentry/420-message-discrerror-0xae06df.js",
+  "owner": "@sentry",
+  "bytes": 4325,
+  "range": [
+   6172721,
+   6177046
+  ]
+ },
+ {
+  "file": "ajv/421-schema-draft-schemaarray.js",
+  "owner": "ajv",
+  "bytes": 3135,
+  "range": [
+   6177064,
+   6180199
+  ]
+ },
+ {
+  "file": "ajv/422-defineproperty-esmodule-missingreferror.js",
+  "owner": "ajv",
+  "bytes": 2991,
+  "range": [
+   6180199,
+   6183190
+  ]
+ },
+ {
+  "file": "ajv/423-defineproperty-esmodule-formatnames.js",
+  "owner": "ajv",
+  "bytes": 10690,
+  "range": [
+   6183237,
+   6193927
+  ]
+ },
+ {
+  "file": "ajv/424-defineproperty-esmodule-0x142c.js",
+  "owner": "ajv",
+  "bytes": 4569,
+  "range": [
+   6193938,
+   6198507
+  ]
+ },
+ {
+  "file": "qs/425-arguments-caller-getownpropertydescriptor.js",
+  "owner": "qs",
+  "bytes": 1848,
+  "range": [
+   6198529,
+   6200377
+  ]
+ },
+ {
+  "file": "APP/426-exports-0x1727d0-0x57de15.js",
+  "owner": "APP",
+  "bytes": 5093,
+  "range": [
+   6201946,
+   6207039
+  ]
+ },
+ {
+  "file": "@sentry/427-0x38046d-loose-0x2923b3.js",
+  "owner": "@sentry",
+  "bytes": 6599,
+  "range": [
+   6208053,
+   6214652
+  ]
+ },
+ {
+  "file": "qs/428-removenode-throw-error.js",
+  "owner": "qs",
+  "bytes": 8418,
+  "range": [
+   6221198,
+   6229616
+  ]
+ },
+ {
+  "file": "qs/429-0x561c83-typeof-0x1a0.js",
+  "owner": "qs",
+  "bytes": 5423,
+  "range": [
+   6231046,
+   6236469
+  ]
+ },
+ {
+  "file": "qs/430-0xfa032e-includeprerelease-0x3c20f8.js",
+  "owner": "qs",
+  "bytes": 12310,
+  "range": [
+   6238247,
+   6250557
+  ]
+ },
+ {
+  "file": "@sentry-internal/431-semver-0x50171d-0x12b575.js",
+  "owner": "@sentry-internal",
+  "bytes": 3318,
+  "range": [
+   6250568,
+   6253886
+  ]
+ },
+ {
+  "file": "conf/432-0x37be35-0x41fd0b-0x2fa551.js",
+  "owner": "conf",
+  "bytes": 1516,
+  "range": [
+   6256461,
+   6257977
+  ]
+ },
+ {
+  "file": "conf/433-const-0x2dee7d-0x395245.js",
+  "owner": "conf",
+  "bytes": 5240,
+  "range": [
+   6259423,
+   6264663
+  ]
+ },
+ {
+  "file": "conf/434-classprivatefieldset-private-method.js",
+  "owner": "conf",
+  "bytes": 14813,
+  "range": [
+   6267072,
+   6281885
+  ]
+ },
+ {
+  "file": "define-data-property/435-systeminformation-advanced-lightweight.js",
+  "owner": "define-data-property",
+  "bytes": 1614,
+  "range": [
+   6290659,
+   6292273
+  ]
+ },
+ {
+  "file": "APP/436-touppercase-0xf03b1f-0x53a7f0.js",
+  "owner": "APP",
+  "bytes": 1659,
+  "range": [
+   6296729,
+   6298388
+  ]
+ },
+ {
+  "file": "APP/437-dateformat-tolowercase-0x59526c.js",
+  "owner": "APP",
+  "bytes": 3760,
+  "range": [
+   6298388,
+   6302148
+  ]
+ },
+ {
+  "file": "APP/438-0x9bc635-0x6d7d96-0x754.js",
+  "owner": "APP",
+  "bytes": 1809,
+  "range": [
+   6302148,
+   6303957
+  ]
+ },
+ {
+  "file": "APP/439-random-tostring-substring.js",
+  "owner": "APP",
+  "bytes": 2095,
+  "range": [
+   6306334,
+   6308429
+  ]
+ },
+ {
+  "file": "qs/440-0x3b9fea-replace-proto.js",
+  "owner": "qs",
+  "bytes": 3593,
+  "range": [
+   6314024,
+   6317617
+  ]
+ },
+ {
+  "file": "APP/441-revision-memory-0x100.js",
+  "owner": "APP",
+  "bytes": 4007,
+  "range": [
+   6318754,
+   6322761
+  ]
+ },
+ {
+  "file": "APP/442-arrayempty-indexof-plist.js",
+  "owner": "APP",
+  "bytes": 5162,
+  "range": [
+   6324902,
+   6330064
+  ]
+ },
+ {
+  "file": "APP/443-indexof-0x8faa73-0x3af.js",
+  "owner": "APP",
+  "bytes": 2145,
+  "range": [
+   6330197,
+   6332342
+  ]
+ },
+ {
+  "file": "APP/444-mac15-macbook-additional.js",
+  "owner": "APP",
+  "bytes": 16503,
+  "range": [
+   6333658,
+   6350161
+  ]
+ },
+ {
+  "file": "APP/445-tolowercase-windows-indexof.js",
+  "owner": "APP",
+  "bytes": 3397,
+  "range": [
+   6354187,
+   6357584
+  ]
+ },
+ {
+  "file": "bindings/446-nexttick-platform-windows.js",
+  "owner": "bindings",
+  "bytes": 8914,
+  "range": [
+   6358845,
+   6367759
+  ]
+ },
+ {
+  "file": "qs/447-kernel-release-apache.js",
+  "owner": "qs",
+  "bytes": 22503,
+  "range": [
+   6369128,
+   6391631
+  ]
+ },
+ {
+  "file": "get-intrinsic/448-nexttick-hardware-system.js",
+  "owner": "get-intrinsic",
+  "bytes": 2982,
+  "range": [
+   6393223,
+   6396205
+  ]
+ },
+ {
+  "file": "qs/449-nexttick-manufacturer-computer.js",
+  "owner": "qs",
+  "bytes": 12349,
+  "range": [
+   6396464,
+   6408813
+  ]
+ },
+ {
+  "file": "qs/450-nexttick-vendor-version.js",
+  "owner": "qs",
+  "bytes": 4319,
+  "range": [
+   6409110,
+   6413429
+  ]
+ },
+ {
+  "file": "get-intrinsic/451-nexttick-manufacturer-version.js",
+  "owner": "get-intrinsic",
+  "bytes": 6604,
+  "range": [
+   6413444,
+   6420048
+  ]
+ },
+ {
+  "file": "get-intrinsic/452-unknown-desktop-profile.js",
+  "owner": "get-intrinsic",
+  "bytes": 4173,
+  "range": [
+   6420946,
+   6425119
+  ]
+ },
+ {
+  "file": "APP/453-0x209b-0x209e-0x20a2.js",
+  "owner": "APP",
+  "bytes": 11611,
+  "range": [
+   6425918,
+   6437529
+  ]
+ },
+ {
+  "file": "qs/454-nexttick-unknown-manufacturer.js",
+  "owner": "qs",
+  "bytes": 16970,
+  "range": [
+   6439957,
+   6456927
+  ]
+ },
+ {
+  "file": "qs/455-hasownproperty-0x5859a1-0x2aa05d.js",
+  "owner": "qs",
+  "bytes": 1768,
+  "range": [
+   6457156,
+   6458924
+  ]
+ },
+ {
+  "file": "qs/456-nexttick-chipset-class.js",
+  "owner": "qs",
+  "bytes": 9975,
+  "range": [
+   6459316,
+   6469291
+  ]
+ },
+ {
+  "file": "qs/457-nexttick-featureset-execoptswin.js",
+  "owner": "qs",
+  "bytes": 3254,
+  "range": [
+   6469316,
+   6472570
+  ]
+ },
+ {
+  "file": "qs/458-nexttick-tostring-0x2c2e0e.js",
+  "owner": "qs",
+  "bytes": 6120,
+  "range": [
+   6472589,
+   6478709
+  ]
+ },
+ {
+  "file": "APP/459-0x37bce3-0x17ccd1-split.js",
+  "owner": "APP",
+  "bytes": 1877,
+  "range": [
+   6478709,
+   6480586
+  ]
+ },
+ {
+  "file": "qs/460-nexttick-loadavg-0x18efb8.js",
+  "owner": "qs",
+  "bytes": 9592,
+  "range": [
+   6480605,
+   6490197
+  ]
+ },
+ {
+  "file": "qs/461-nexttick-totalmem-freemem.js",
+  "owner": "qs",
+  "bytes": 7939,
+  "range": [
+   6492540,
+   6500479
+  ]
+ },
+ {
+  "file": "qs/462-replace-touppercase-hasownproperty.js",
+  "owner": "qs",
+  "bytes": 10514,
+  "range": [
+   6500493,
+   6511007
+  ]
+ },
+ {
+  "file": "APP/463-getvalue-batterystatus-status.js",
+  "owner": "APP",
+  "bytes": 1561,
+  "range": [
+   6511224,
+   6512785
+  ]
+ },
+ {
+  "file": "qs/464-nexttick-hasbattery-cyclecount.js",
+  "owner": "qs",
+  "bytes": 11707,
+  "range": [
+   6512785,
+   6524492
+  ]
+ },
+ {
+  "file": "qs/465-controllers-displays-foreach.js",
+  "owner": "qs",
+  "bytes": 41016,
+  "range": [
+   6527712,
+   6568728
+  ]
+ },
+ {
+  "file": "qs/466-isfunction-startswith-const.js",
+  "owner": "qs",
+  "bytes": 7520,
+  "range": [
+   6569014,
+   6576534
+  ]
+ },
+ {
+  "file": "qs/467-nexttick-sysctl-maxfiles.js",
+  "owner": "qs",
+  "bytes": 2135,
+  "range": [
+   6576551,
+   6578686
+  ]
+ },
+ {
+  "file": "APP/468-foreach-0x2270c9-const.js",
+  "owner": "APP",
+  "bytes": 2774,
+  "range": [
+   6578938,
+   6581712
+  ]
+ },
+ {
+  "file": "APP/469-nexttick-maxbuffer-diskutil.js",
+  "owner": "APP",
+  "bytes": 3294,
+  "range": [
+   6587340,
+   6590634
+  ]
+ },
+ {
+  "file": "get-intrinsic/470-nexttick-lsblk-maxbuffer.js",
+  "owner": "get-intrinsic",
+  "bytes": 2989,
+  "range": [
+   6591856,
+   6594845
+  ]
+ },
+ {
+  "file": "APP/471-rwaittime-wwaittime-twaittime.js",
+  "owner": "APP",
+  "bytes": 2065,
+  "range": [
+   6594863,
+   6596928
+  ]
+ },
+ {
+  "file": "APP/472-nexttick-rwaittime-wwaittime.js",
+  "owner": "APP",
+  "bytes": 3016,
+  "range": [
+   6596928,
+   6599944
+  ]
+ },
+ {
+  "file": "qs/473-pattern-western-manufacturer.js",
+  "owner": "qs",
+  "bytes": 19707,
+  "range": [
+   6599962,
+   6619669
+  ]
+ },
+ {
+  "file": "qs/474-0x283e51-networkinterfaces-hasownproperty.js",
+  "owner": "qs",
+  "bytes": 2383,
+  "range": [
+   6619960,
+   6622343
+  ]
+ },
+ {
+  "file": "APP/475-0x1414a3-const-0xa095bd.js",
+  "owner": "APP",
+  "bytes": 2189,
+  "range": [
+   6622379,
+   6624568
+  ]
+ },
+ {
+  "file": "APP/476-hasownproperty-0x2a083b-0x2238f3.js",
+  "owner": "APP",
+  "bytes": 1511,
+  "range": [
+   6624785,
+   6626296
+  ]
+ },
+ {
+  "file": "APP/477-unknown-0x24401b-disabled.js",
+  "owner": "APP",
+  "bytes": 2028,
+  "range": [
+   6629190,
+   6631218
+  ]
+ },
+ {
+  "file": "APP/478-foreach-operstate-duplex.js",
+  "owner": "APP",
+  "bytes": 2536,
+  "range": [
+   6631592,
+   6634128
+  ]
+ },
+ {
+  "file": "qs/479-typeof-0x3d98e3-0x8f71a3.js",
+  "owner": "qs",
+  "bytes": 15328,
+  "range": [
+   6639714,
+   6655042
+  ]
+ },
+ {
+  "file": "qs/480-nexttick-isfunction-proto.js",
+  "owner": "qs",
+  "bytes": 1592,
+  "range": [
+   6656470,
+   6658062
+  ]
+ },
+ {
+  "file": "qs/481-hasownproperty-0x594dbb-0x5cbf76.js",
+  "owner": "qs",
+  "bytes": 8111,
+  "range": [
+   6658062,
+   6666173
+  ]
+ },
+ {
+  "file": "qs/482-nexttick-unset-maxbuffer.js",
+  "owner": "qs",
+  "bytes": 9816,
+  "range": [
+   6666749,
+   6676565
+  ]
+ },
+ {
+  "file": "get-intrinsic/483-nexttick-route-maxbuffer.js",
+  "owner": "get-intrinsic",
+  "bytes": 3029,
+  "range": [
+   6676594,
+   6679623
+  ]
+ },
+ {
+  "file": "APP/484-execoptslinux-tostring-active.js",
+  "owner": "APP",
+  "bytes": 1538,
+  "range": [
+   6684656,
+   6686194
+  ]
+ },
+ {
+  "file": "APP/485-export-iwlist-unset.js",
+  "owner": "APP",
+  "bytes": 3293,
+  "range": [
+   6686194,
+   6689487
+  ]
+ },
+ {
+  "file": "qs/486-nexttick-export-iwconfig.js",
+  "owner": "qs",
+  "bytes": 3375,
+  "range": [
+   6690912,
+   6694287
+  ]
+ },
+ {
+  "file": "qs/487-nexttick-foreach-isprototypepolluted.js",
+  "owner": "qs",
+  "bytes": 8187,
+  "range": [
+   6695465,
+   6703652
+  ]
+ },
+ {
+  "file": "APP/488-nexttick-foreach-0x2a6acc.js",
+  "owner": "APP",
+  "bytes": 2861,
+  "range": [
+   6703678,
+   6706539
+  ]
+ },
+ {
+  "file": "APP/489-gettime-gettimezoneoffset-0x2eb88f.js",
+  "owner": "APP",
+  "bytes": 1699,
+  "range": [
+   6707812,
+   6709511
+  ]
+ },
+ {
+  "file": "qs/490-isfunction-nexttick-0x2d4986.js",
+  "owner": "qs",
+  "bytes": 9080,
+  "range": [
+   6709511,
+   6718591
+  ]
+ },
+ {
+  "file": "@sentry/491-replace-split-0x1c471b.js",
+  "owner": "@sentry",
+  "bytes": 1582,
+  "range": [
+   6718610,
+   6720192
+  ]
+ },
+ {
+  "file": "APP/492-replace-split-0x3a898c.js",
+  "owner": "APP",
+  "bytes": 1600,
+  "range": [
+   6720192,
+   6721792
+  ]
+ },
+ {
+  "file": "qs/493-0x5b1e-0x32483a-split.js",
+  "owner": "qs",
+  "bytes": 17369,
+  "range": [
+   6722696,
+   6740065
+  ]
+ },
+ {
+  "file": "qs/494-isfunction-nexttick-proto.js",
+  "owner": "qs",
+  "bytes": 9185,
+  "range": [
+   6740085,
+   6749270
+  ]
+ },
+ {
+  "file": "qs/495-foreach-replace-split.js",
+  "owner": "qs",
+  "bytes": 3208,
+  "range": [
+   6750362,
+   6753570
+  ]
+ },
+ {
+  "file": "APP/496-foreach-replace-split.js",
+  "owner": "APP",
+  "bytes": 1628,
+  "range": [
+   6753570,
+   6755198
+  ]
+ },
+ {
+  "file": "get-intrinsic/497-nexttick-unset-tostring.js",
+  "owner": "get-intrinsic",
+  "bytes": 3524,
+  "range": [
+   6755198,
+   6758722
+  ]
+ },
+ {
+  "file": "qs/498-nexttick-0x5d5243-0x137.js",
+  "owner": "qs",
+  "bytes": 2007,
+  "range": [
+   6762931,
+   6764938
+  ]
+ },
+ {
+  "file": "qs/499-isfunction-nexttick-isprototypepolluted.js",
+  "owner": "qs",
+  "bytes": 3701,
+  "range": [
+   6764962,
+   6768663
+  ]
+ },
+ {
+  "file": "@sentry-internal/500-getinfo-createconnection-0x9ac2b0.js",
+  "owner": "@sentry-internal",
+  "bytes": 6598,
+  "range": [
+   6768795,
+   6775393
+  ]
+ },
+ {
+  "file": "APP/501-nexttick-getinfo-0x5f06bf.js",
+  "owner": "APP",
+  "bytes": 2572,
+  "range": [
+   6775507,
+   6778079
+  ]
+ },
+ {
+  "file": "qs/502-filter-0x1073e1-isfunction.js",
+  "owner": "qs",
+  "bytes": 1939,
+  "range": [
+   6780967,
+   6782906
+  ]
+ },
+ {
+  "file": "APP/503-nexttick-isprototypepolluted-sanitizeshellst.js",
+  "owner": "APP",
+  "bytes": 1659,
+  "range": [
+   6782906,
+   6784565
+  ]
+ },
+ {
+  "file": "qs/504-nexttick-isfunction-0x49afe0.js",
+  "owner": "qs",
+  "bytes": 2328,
+  "range": [
+   6786487,
+   6788815
+  ]
+ },
+ {
+  "file": "APP/505-const-0x1434b3-0x40d7ce.js",
+  "owner": "APP",
+  "bytes": 2088,
+  "range": [
+   6788815,
+   6790903
+  ]
+ },
+ {
+  "file": "APP/506-nexttick-isprototypepolluted-sanitizeshellst.js",
+  "owner": "APP",
+  "bytes": 2417,
+  "range": [
+   6790933,
+   6793350
+  ]
+ },
+ {
+  "file": "APP/507-nexttick-0x1ba43f-0x3006fe.js",
+  "owner": "APP",
+  "bytes": 1545,
+  "range": [
+   6794422,
+   6795967
+  ]
+ },
+ {
+  "file": "debug/508-nexttick-getvboxmanage-0x568b8f.js",
+  "owner": "debug",
+  "bytes": 3389,
+  "range": [
+   6796031,
+   6799420
+  ]
+ },
+ {
+  "file": "qs/509-nexttick-printers-tostring.js",
+  "owner": "qs",
+  "bytes": 2405,
+  "range": [
+   6803257,
+   6805662
+  ]
+ },
+ {
+  "file": "APP/510-indexof-device-deviceid.js",
+  "owner": "APP",
+  "bytes": 2199,
+  "range": [
+   6806725,
+   6808924
+  ]
+ },
+ {
+  "file": "string_decoder/511-0x17c584-0x5bc3cd-replace.js",
+  "owner": "string_decoder",
+  "bytes": 2515,
+  "range": [
+   6810180,
+   6812695
+  ]
+ },
+ {
+  "file": "qs/512-nexttick-export-lsusb.js",
+  "owner": "qs",
+  "bytes": 1983,
+  "range": [
+   6814131,
+   6816114
+  ]
+ },
+ {
+  "file": "qs/513-nexttick-lspci-tostring.js",
+  "owner": "qs",
+  "bytes": 1974,
+  "range": [
+   6821663,
+   6823637
+  ]
+ },
+ {
+  "file": "APP/514-ericsson-technology-licensing.js",
+  "owner": "APP",
+  "bytes": 31919,
+  "range": [
+   6823654,
+   6855573
+  ]
+ },
+ {
+  "file": "qs/515-nexttick-getfilesinpath-bluetooth.js",
+  "owner": "qs",
+  "bytes": 5723,
+  "range": [
+   6859602,
+   6865325
+  ]
+ },
+ {
+  "file": "qs/516-bluetoothdevices-version-platform.js",
+  "owner": "qs",
+  "bytes": 12203,
+  "range": [
+   6865325,
+   6877528
+  ]
+ },
+ {
+  "file": "APP/517-polyrecorder-x20utils-version.js",
+  "owner": "APP",
+  "bytes": 1885,
+  "range": [
+   6879346,
+   6881231
+  ]
+ },
+ {
+  "file": "qs/518-generateaudiowaveform-0x2ca191-0x34668b.js",
+  "owner": "qs",
+  "bytes": 2671,
+  "range": [
+   6889850,
+   6892521
+  ]
+ },
+ {
+  "file": "qs/519-exports-foreach-extensions.js",
+  "owner": "qs",
+  "bytes": 1535,
+  "range": [
+   6902483,
+   6904018
+  ]
+ },
+ {
+  "file": "electron-dl/520-0x334234-0x2c2209-0x1d4bfe.js",
+  "owner": "electron-dl",
+  "bytes": 3766,
+  "range": [
+   6905273,
+   6909039
+  ]
+ },
+ {
+  "file": "node-mac-permissions/521-project-creating-projectcaptionsmodel.js",
+  "owner": "node-mac-permissions",
+  "bytes": 7196,
+  "range": [
+   6912920,
+   6920116
+  ]
+ },
+ {
+  "file": "get-intrinsic/522-gettranscript-projectpath-resolve.js",
+  "owner": "get-intrinsic",
+  "bytes": 1791,
+  "range": [
+   6923341,
+   6925132
+  ]
+ },
+ {
+  "file": "get-intrinsic/523-recording-router-mutation.js",
+  "owner": "get-intrinsic",
+  "bytes": 2364,
+  "range": [
+   6934760,
+   6937124
+  ]
+ },
+ {
+  "file": "qs/524-exports-urlpattern-replace.js",
+  "owner": "qs",
+  "bytes": 14080,
+  "range": [
+   6937219,
+   6951299
+  ]
+ },
+ {
+  "file": "APP/525-record-window-windowid.js",
+  "owner": "APP",
+  "bytes": 1974,
+  "range": [
+   6951919,
+   6953893
+  ]
+ },
+ {
+  "file": "@sentry/526-subscription-deeplinkopened-resolve.js",
+  "owner": "@sentry",
+  "bytes": 2482,
+  "range": [
+   6956032,
+   6958514
+  ]
+ },
+ {
+  "file": "@sentry/527-export-x20router-mutation.js",
+  "owner": "@sentry",
+  "bytes": 5233,
+  "range": [
+   6970990,
+   6976223
+  ]
+ },
+ {
+  "file": "qs/528-fsrouter-loadfile-filepath.js",
+  "owner": "qs",
+  "bytes": 1986,
+  "range": [
+   6976430,
+   6978416
+  ]
+ },
+ {
+  "file": "APP/529-configuration-channel-system.js",
+  "owner": "APP",
+  "bytes": 1730,
+  "range": [
+   6982576,
+   6984306
+  ]
+ },
+ {
+  "file": "APP/530-setaboutpaneloptions-applicationname-applica.js",
+  "owner": "APP",
+  "bytes": 1986,
+  "range": [
+   6989493,
+   6991479
+  ]
+ },
+ {
+  "file": "APP/531-mutation-async-resolve.js",
+  "owner": "APP",
+  "bytes": 1715,
+  "range": [
+   6993362,
+   6995077
+  ]
+ },
+ {
+  "file": "@sentry/532-mutation-generatevoiceoverforproject-project.js",
+  "owner": "@sentry",
+  "bytes": 1973,
+  "range": [
+   7000799,
+   7002772
+  ]
+ },
+ {
+  "file": "get-intrinsic/533-system-router-machineid.js",
+  "owner": "get-intrinsic",
+  "bytes": 440135,
+  "range": [
+   7003640,
+   7443775
+  ]
+ },
+ {
+  "file": "APP/534-async-0x4ee454-0x6bcd03.js",
+  "owner": "APP",
+  "bytes": 2378,
+  "range": [
+   7444410,
+   7446788
+  ]
+ },
+ {
+  "file": "get-intrinsic/535-mutation-updatechildwindow-0xc72b77.js",
+  "owner": "get-intrinsic",
+  "bytes": 4510,
+  "range": [
+   7450429,
+   7454939
+  ]
+ },
+ {
+  "file": "APP/536-middleware-sender-0x5c230f.js",
+  "owner": "APP",
+  "bytes": 1647,
+  "range": [
+   7455308,
+   7456955
+  ]
+ },
+ {
+  "file": "localforage/537-0x3cec23-destroying-connection.js",
+  "owner": "localforage",
+  "bytes": 3538,
+  "range": [
+   7457491,
+   7461029
+  ]
+ },
+ {
+  "file": "APP/538-ipcmain-handle-invoke.js",
+  "owner": "APP",
+  "bytes": 2035,
+  "range": [
+   7462444,
+   7464479
+  ]
+ }
+]
