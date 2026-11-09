@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="380" viewBox="0 0 1200 380"
+     role="img" aria-labelledby="title desc">
+  <title id="title">lhg-screen-studio — Screen Studio 3.7.5 逆向学习包：先读 22 KB 地图，再进 23 MB 源码</title>
+  <desc id="desc">左侧是项目名与一句话价值；右侧是一张代码地图：22 KB 的 distill 蒸馏包用锚点连向 23 个功能切片，底下一条比例尺对比 22 KB 与 23 MB。</desc>
+
+  <rect width="1200" height="380" rx="26" fill="#0D1117"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#D29922"/>
+
+  <!-- Title block -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+    <text x="56" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="18" letter-spacing="2" fill="#58A6FF">REVERSE-ENGINEERING · SCREEN STUDIO 3.7.5-4595</text>
+    <text x="56" y="146" font-size="56" font-weight="700" fill="#F0F6FC">lhg-screen-studio</text>
+    <text x="56" y="192" font-size="26" fill="#E6EDF3">先读 22 KB 地图，再进 23 MB 源码。</text>
+    <text x="56" y="228" font-size="21" fill="#8B949E">反混淆源码 + 架构剖析 + 可执行的复刻规格。</text>
+    <line x1="56" y1="256" x2="600" y2="256" stroke="#21262D" stroke-width="2"/>
+    <text x="56" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="18" fill="#8B949E">Electron 39.2.7 · 23 个切片 · 72 个 chunk</text>
+    <text x="56" y="324" font-size="18" fill="#E6EDF3">给 AI Agent 读 distill/，给人读 src/——别走反了</text>
+  </g>
+
+  <!-- Map motif: distill anchors to slices -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <rect x="680" y="52" width="464" height="276" rx="18" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+    <text x="704" y="90" font-size="18" fill="#58A6FF">distill/ — 22,697 B · 5 份</text>
+    <g stroke="#D29922" stroke-width="2">
+      <line x1="760" y1="130" x2="860" y2="130"/>
+      <line x1="760" y1="170" x2="900" y2="170"/>
+      <line x1="760" y1="210" x2="830" y2="210"/>
+    </g>
+    <circle cx="760" cy="130" r="7" fill="#D29922"/>
+    <circle cx="760" cy="170" r="7" fill="#D29922"/>
+    <circle cx="760" cy="210" r="7" fill="#D29922"/>
+    <text x="776" y="124" font-size="17" fill="#E6EDF3">01 架构一页纸</text>
+    <text x="776" y="164" font-size="17" fill="#E6EDF3">02 能力地图 · 14 项</text>
+    <text x="776" y="204" font-size="17" fill="#E6EDF3">03 任务卡 · 5 张</text>
+    <rect x="704" y="244" width="180" height="26" rx="6" fill="#58A6FF"/>
+    <text x="716" y="262" font-size="15" fill="#0D1117">22 KB</text>
+    <rect x="896" y="244" width="224" height="26" rx="6" fill="none" stroke="#8B949E" stroke-width="2"/>
+    <text x="908" y="262" font-size="15" fill="#8B949E">src/ 23 MB</text>
+    <text x="704" y="306" font-size="17" fill="#8B949E">锚点定位，不通读 7.1 MB 单行文件</text>
+  </g>
+</svg>
